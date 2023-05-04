@@ -1,0 +1,22 @@
+{
+"name": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
+"author": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
+"image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
+"info":"NECESARIA APP ACESTREAM PARA ALGUNOS CANALES",
+"groups":
+[
+{
+"name": "𝑪𝑨𝑵𝑨𝑳𝑬𝑺 𝑨𝑪𝑬𝑺𝑻𝑹𝑬𝑨𝑴",
+"image": "https://i.postimg.cc/Wp0X5yWD/logo-acestream-2.png",
+"url": "https://pastebin.com/CUGSgAyu",
+"info":"NECESARIA APP ACESTREAM",
+"import": false
+},
+{
+"name": "𝑻𝑽 𝑷𝑹𝑬𝑴𝑰𝑼𝑴",
+"image": "https://roams.es/images/post/es_ES_telco/companias-telefonicas-movistar-guias-television-movistar-premium-extra.jpg",
+"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/Spain.m3u",
+"import": false
+},
+]
+}
