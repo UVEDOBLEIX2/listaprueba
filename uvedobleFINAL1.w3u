@@ -6,17 +6,23 @@
 "groups":
 [
 {
-"name": "𝑪𝑨𝑵𝑨𝑳𝑬𝑺 𝑨𝑪𝑬𝑺𝑻𝑹𝑬𝑨𝑴",
+"name": "CANALES ACESTREAM",
 "image": "https://i.ytimg.com/vi/qrSOUF0bFnk/sddefault.jpg",
 "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/ACHESTRIM",
 "info":"NECESARIA APP ACESTREAM.",
 "import": false
 },
 {
-"name": "𝑻𝑽 𝑷𝑹𝑬𝑴𝑰𝑼𝑴",
+"name": "IPTV PREMIUM",
 "image": "https://roams.es/images/post/es_ES_telco/companias-telefonicas-movistar-guias-television-movistar-premium-extra.jpg",
 "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/CANALESIP.m3u",
 "info":"UVEDOBLE",
+"import": false
+},
+{
+"name": "DEPORTES DIFERIDO",
+"image": "https://i.postimg.cc/sxdBhVKX/logo-diferidos.png",
+"url": "https://pastebin.com/WTj5pK5S",
 "import": false
 },
 ]
