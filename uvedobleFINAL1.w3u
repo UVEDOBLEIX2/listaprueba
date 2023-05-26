@@ -31,5 +31,11 @@
 "url": "https://pastebin.com/sby59mS2",
 "import": false
 },
+{
+"name": "PLUTO TV",
+"image": "https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png",
+"url": "https://i.mjh.nz/PlutoTV/es.m3u8",
+"import": false
+},
 ]
 }
