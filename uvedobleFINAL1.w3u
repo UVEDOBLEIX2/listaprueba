@@ -6,14 +6,21 @@
 "groups":
 [
 {
-"name": "CANALES ACESTREAM",
+"name": "CANALES DEPORTIVOS (CON ACESTREAM)",
 "image": "https://i.ytimg.com/vi/qrSOUF0bFnk/sddefault.jpg",
 "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/ACHESTRIM",
 "info":"NECESARIA APP ACESTREAM.",
 "import": false
 },
 {
-"name": "IPTV PREMIUM",
+"name": "CANALES DEPORTIVOS (SIN ACESTREAM)---PRÓXIMAMENTE",
+"image": "https://t4.ftcdn.net/jpg/01/87/91/41/360_F_187914118_GYNR71jZ6seXtrFgKTbzfAFFVezesbwy.jpg",
+"url": "",
+"info":"",
+"import": false
+},
+{
+"name": "CANALES PREMIUM",
 "image": "https://roams.es/images/post/es_ES_telco/companias-telefonicas-movistar-guias-television-movistar-premium-extra.jpg",
 "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/CANALESIP.m3u",
 "info":"UVEDOBLE",
