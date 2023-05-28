@@ -44,5 +44,12 @@
 "url": "https://i.mjh.nz/PlutoTV/es.m3u8",
 "import": false
 },
+{
+"name": "CANALES ACESTREAM OPCION 2",
+"image": "https://i.imgur.com/DKe9vkG.png",
+"url": "https://pastebin.com/LpW586A5",
+"info":"NECESARIA APP ACESTREAM.",
+"import": false
+},
 ]
 }
