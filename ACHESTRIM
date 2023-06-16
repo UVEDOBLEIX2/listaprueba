@@ -400,20 +400,20 @@
 	"stations":
 		[
 			{
-			"name": "DAZN F1 [4k]",
-			"info":"MUCHO DELAY",
+			"name": "DAZN F1 [1080p]",
+			"info":"OPCION 0 (RECOMENDADO)",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
-			"url": "acestream://574f1432f2e38a76c22237241f5f75cdb21c2ae1"
+			"url": "acestream://5789ca155323664edd293b848606688edf803f4d"
 			},
 			{
 			"name": "DAZN F1 [1080p]",
 			"info":"OPCION 1",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
-			"url": "acestream://37b382c9f9b1c55191f35ac90949457618f94060"
+			"url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"
 			},
 			{
 			"name": "DAZN F1 [1080p]",
-			"info":"OPCION 2 (RECOMENDADO)",
+			"info":"OPCION 2",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
 			"url": "acestream://60cf60019aeef9af6183dd05af1b89e25594ac14"
 			},
@@ -421,7 +421,7 @@
 			"name": "DAZN F1 [1080p]",
 			"info":"OPCION 3",
 			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
-			"url": "acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2"
+			"url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
 			},
 			{
 			"name": "DAZN F1 [720p]",
@@ -433,7 +433,7 @@
 			"name": "F1 TV PRO",
 			"info":"EN INGLÉS",
 			"image": "https://ik.imagekit.io/tp/20220310-f1-logo.png",
-			"url": "acestream://4050da1ebb0669bc3206384188384e49616feee0"
+			"url": "acestream://65c705d7b387aa9b2a83e66b2fd0b9611e941a02"
 			},
 			{
 			"name": "SKY SPORT 4K",
