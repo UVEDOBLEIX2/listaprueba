@@ -429,7 +429,7 @@
 		[
 			{
 			"name": "DAZN F1 [1080p]",
-			"info":"RECOMENDADA",
+			"info":"RECOMENDADO",
 			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
 			"url": "acestream://5789ca155323664edd293b848606688edf803f4d"
 			},
@@ -453,11 +453,28 @@
 			},
 			{
 			"name": "DAZN F1 [1080p]",
+			"info":"OPCION 4",
+			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+			"url": "acestream://e8d2ae01fab187655f7b47feaea4d6dad9211672"
+			},
+			{
+			"name": "DAZN F1 [1080p]",
 			"info":"SIN ACESTREAM",
 			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
 			"url": "https://daddylivehd.sx/stream/stream-537.php"
+			},
+			{
+			"name": "F1TV  [1080p]",
+			"info":"INGLES",
+			"image": "https://i.blogs.es/ce71a0/f1-tv-pro/original.png",
+			"url": "acestream://bb2976a6e2296ffa562c91d761db5460f325bd1a"
+			},
+			{
+			"name": "Sky Sport UHD",
+			"info":"INGLES",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Sport_UHD_logo.svg/2560px-Sky_Sport_UHD_logo.svg.png",
+			"url": "acestream://96f3385d7bd5420ffad7d54ecae5cab2b9da25c3"
 			}
-			
 		]
 	},
 
