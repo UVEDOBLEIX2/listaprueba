@@ -1068,17 +1068,17 @@
 	},
 
 	{
-	"name": "TOROS FERIA SAN ISIDRO (MADRID)",
-	"image": "https://i.postimg.cc/W4ktD75g/Toros-San-Isidro-2023.jpg",
+	"name": "EVENTOS DEL DIA",
+	"image": "https://res.cloudinary.com/teepublic/image/private/s--c7Xd9wnZ--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:35/co_ffffff,e_outline:inner_fill:35/co_ffffff,e_outline:35/co_ffffff,e_outline:inner_fill:35/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1545743123/production/designs/3818987_0.jpg",
 	"imageScale": "",
 	"info":"",
 	"stations":
 		[
 			{
-			"name": "Tele Madrid",
-			"info":"TOROS",
-			"image": "https://i.postimg.cc/W4ktD75g/Toros-San-Isidro-2023.jpg",
-			"url": "acestream://f763ab71f6f646e6c993f37e237be97baf2143ef"
+			"name": "EVENTOS DEL DIA",
+			"info":"",
+			"image": "https://seeklogo.com/images/Y/youtube-live-logo-43F98BDB4C-seeklogo.com.png",
+			"url": "https://pastebin.com/raw/aCpeuve2"
 			}
 		]
 	}
