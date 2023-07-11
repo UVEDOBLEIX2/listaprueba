@@ -631,9 +631,41 @@
 			},
                         {
 			"name": "sdfgsdfsdf",
-			"info":"prueba 2",
+			"info":"prueba 3",
 			"image": "https://image.tmdb.org/t/p/original/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
 			"url": "https://verpeliculasonline.org/pelicula/guardianes-de-la-galaxia-volumen-3/"
+			},
+                        {
+			"name": "CORREDOR DEL LABERINTO 3, EL",
+			"image": "https://i.postimg.cc/5y9533xn/El-Corredor-del-Laberinto-3-2018-Pelicula.jpg",
+                        "url": "https://upstream.to/e1cifk3oidig",
+                 	"info":"prueba4",
+                        "isHost":"true",
+                        "online":"true"
+			},
+                        {
+			"name": "CORREDOR DEL LABERINTO 3, EL",
+			"image": "https://i.postimg.cc/5y9533xn/El-Corredor-del-Laberinto-3-2018-Pelicula.jpg",
+                        "url": "https://verpeliculasonline.org/pelicula/guardianes-de-la-galaxia-volumen-3/",
+                 	"info":"prueba5",
+                        "isHost":"true",
+                        "online":"true"
+			},
+                        {
+			"name": "CORREDOR DEL LABERINTO 3, EL",
+			"image": "https://i.postimg.cc/5y9533xn/El-Corredor-del-Laberinto-3-2018-Pelicula.jpg",
+                        "url": "https://verpeliculasonline.org/pelicula/guardianes-de-la-galaxia-volumen-3/",
+                 	"info":"prueba6",
+                        "isHost":"true",
+                        "online":"true"
+			},
+                        {
+			"name": "flash",
+			"image": "https://i.postimg.cc/5y9533xn/El-Corredor-del-Laberinto-3-2018-Pelicula.jpg",
+                        "url": "https://waaw.to/watch_video.php?v=TGJSczJsemt1VHNIUEVReFZCZ3hQcUsxQTJ3NWVGY1hRNFBzYlNZSlpTUDJtdW9mQ2RzYjgybzBmTENUSm9ndw%3D%3D#iss=MTg1LjEzLjIwMi4yMzA=",
+                 	"info":"prueba7",
+                        "isHost":"true",
+                        "online":"true"
 			},
 			{
 			"name": "FAST X",
