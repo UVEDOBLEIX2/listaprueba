@@ -509,9 +509,15 @@
 		[
 			{
 			"name": "M #Vamos [1080]",
-			"info":"3122",
+			"info":"opcion 1",
 			"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
 			"url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"
+			},
+			{
+			"name": "M #Vamos [720]",
+			"info":"opcion 2",
+			"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+			"url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
 			}
 		]
 	},
