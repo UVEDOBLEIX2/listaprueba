@@ -1,144 +1,265 @@
-{
-"name": "IptVs",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"image": "https://giffiles.alphacoders.com/211/211426.gif",
-"url": "https://pastebin.com/23JNFSts",
-"telegram": "@yIsus_mEx",
-"info":"@yIsus_mEx",
-"groups":
-    [
-        {
-         "name": "IPTV 01",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://23.134.94.129:8080/get.php?username=the_guardian&password=nwcYw8JukH5C&type=m3u_plus",
-         "info":"150 conex",
-         "import": false
-        },
-		{
-         "name": "IPTV 02",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://185.71.64.28:2052/get.php?username=ovhess&password=JzwQaZ2x9BNU&type=m3u_plus&output=ts",
-         "info":"250 conex",
-         "import": false
-        },
-		{
-         "name": "IPTV 03",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://51.222.46.112:8080/get.php?username=TVLing.restream&password=f3049jf034jf934jf0934&type=m3u_plus&output=ts",
-         "info":"150 conex",
-         "import": false
-        },
-		{
-         "name": "IPTV 04",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://185.71.64.28:2052/get.php?username=goldstreamexchnage&password=tj7xXCM8X27U&type=m3u_plus",
-         "info":"300 conex",
-         "import": false
-        },
-		{
-         "name": "IPTV 05",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://obshd.tv:25461/get.php?username=okyanus54&password=trmpurur76ZHRE&type=m3u_plus",
-         "info":"100 conex",
-         "import": false
-        },
-		{
-         "name": "IPTV 06",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://obsfullhd.tv:25461/get.php?username=ExchangeBabar&password=JLGrzMh32TTYV2&type=m3u_plus",
-         "info":"200 conex",
-         "import": false
-        },
-		{
-         "name": "IPTV 07",
-         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
-         "url": "https://raw.githubusercontent.com/CHARLIE1996/m3u/master/iptv_papa_sara.m3u",
-         "info":"",
-         "import": false
-        },
-		{
-         "name": "IPTV 08",
-         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
-         "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/Iptv%20Espa%C3%B1a%2004.w3u",
-         "info":"",
-         "import": false
-        },
-		{
-         "name": "IPTV 09",
-         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
-         "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/MegaLista.w3u",
-         "info":"",
-         "import": false
-        },
-		{
-         "name": "IPTV 10",
-         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
-         "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/Spain.m3u",
-         "info":"",
-         "import": false
-        },
-		{
-         "name": "IPTV 11",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://0011.me:2052/get.php?username=megaottexchngechangehack&password=zkdlksldkkdlkskd&type=m3u_plus",
-         "info":"500 conex",
-         "import": false
-        },
-		{
-         "name": "IPTV 12",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://obshd.tv:25461/get.php?username=OBSKYSHARE&password=QrM5ApjwHdLp&type=m3u_plus",
-         "info":"100 conex",
-         "import": false
-        },
-		{
-         "name": "IPTV Latino 01",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://2hubs.ddns.net:25461/get.php?username=iptvsolu&password=eI3mjZ1M7Y&type=m3u",
-         "info":"100 conex",
-         "import": false
-        },
-		{
-         "name": "IPTV Latino 02",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://playhispano.org:8080/get.php?username=streamtvjh&password=li0cOlwGLg&type=m3u",
-         "info":"100 conex",
-         "import": false
-        },
-		{
-         "name": "IPTV Latino 03",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://23.134.94.129:8080/get.php?username=chaosmedia&password=U8Qmn6KtbFTg&type=m3u_plus",
-         "info":"100 conex",
-         "import": false
-        },
-		{
-         "name": "IPTV Latino 04",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://23.134.94.129:8080/get.php?username=chaosmedia&password=U8Qmn6KtbFTg&type=m3u_plus",
-         "info":"600 conex",
-         "import": false
-        },
-		{
-         "name": "IPTV Latino 05",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-         "url": "http://138.255.102.3:25461/get.php?username=restreamin&password=U9ydnT8kwL&type=m3u&output=ts",
-         "info":"3000 conex",
-         "import": false
-        },
-		{
-         "name": "Pluto TV",
-         "image": "https://i.postimg.cc/d19c10Dk/pluto-tv-new.png",
-         "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/PlutoTV",
-         "info":"",
-         "import": false
-        },
-		{
-         "name": "TDTChannels",
-         "image": "https://i.postimg.cc/Tw5q5fjS/TDT-new.png",
-         "url": "https://pastebin.com/UWXsWLF9",
-         "info":"",
-         "import": false
-        }
-    ]
-}
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN LA LIGA" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_DAZN_LA_LIGA.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD DAZN LA LIGA
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151335
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD DAZN LA LIGA " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_DAZN_LA_LIGA.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD DAZN LA LIGA 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151336
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN LA LIGA" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_DAZN_LA_LIGA.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K DAZN LA LIGA
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151337
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN LA LIGA 2" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_DAZN_LA_LIGA_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD DAZN LA LIGA 2
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151338
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD DAZN LA LIGA 2 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_DAZN_LA_LIGA_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD DAZN LA LIGA 2 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151339
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN LA LIGA 2 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_DAZN_LA_LIGA_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K DAZN LA LIGA 2 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151340
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA LIGA HYPERMOTION " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_LA_LIGA_SMARTBANK_TV_M3-07.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD LA LIGA HYPERMOTION 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151341
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA LIGA HYPERMOTION " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_LA_LIGA_SMARTBANK_TV.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD LA LIGA HYPERMOTION 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151342
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K LA LIGA HYPERMOTION " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_LA_LIGA_SMARTBANK_TV.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K LA LIGA HYPERMOTION 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151343
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA LIGA HYPERMOTION 2" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_LA_LIGA_SMARTBANK_TV_M2.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD LA LIGA HYPERMOTION 2
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151344
+#EXTINF:-1 tvg-id="" tvg-name="ES | HDLA LIGA HYPERMOTION 2" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_LA_LIGA_SMARTBANK_TV_M2.png" group-title=" ES | ESPAÑA DEPORTES",ES | HDLA LIGA HYPERMOTION 2
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151345
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K LA LIGA HYPERMOTION 2" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_LA_LIGA_SMARTBANK_TV_M2.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K LA LIGA HYPERMOTION 2
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151346
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA LIGA HYPERMOTION 3" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_LA_LIGA_SMARTBANK_TV_M3.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD LA LIGA HYPERMOTION 3
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151347
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA LIGA HYPERMOTION 3" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_LA_LIGA_SMARTBANK_TV_M3.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD LA LIGA HYPERMOTION 3
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151348
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K LA LIGA HYPERMOTION 3" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_LA_LIGA_SMARTBANK_TV_M3-15.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K LA LIGA HYPERMOTION 3
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151349
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD FC BETIS " tvg-logo="" group-title=" ES | ESPAÑA DEPORTES",ES | HD FC BETIS 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151350
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD ESPORT" tvg-logo="" group-title=" ES | ESPAÑA DEPORTES",ES | HD ESPORT
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151351
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K ESPORT" tvg-logo="http://xtra.fireottplus.com:2052/images/d9b042380b180f3b4080722ea0421800.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K ESPORT
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151352
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LA LIGA " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LA_LIGA.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LA LIGA 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151353
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LA LIGA " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LA_LIGA.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LA LIGA 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151354
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LA LIGA " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LA_LIGA.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LA LIGA 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151355
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LA LIGA 2 " tvg-logo="http://zeta.ukhost.xyz:2052/images/bdb89eac249ee66662216f088f7156f2.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LA LIGA 2 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151356
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LA LIGA 2 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LA_LIGA_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LA LIGA 2 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151357
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LA LIGA 2 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LA_LIGA_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LA LIGA 2 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151358
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LA LIGA 3" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LA_LIGA_3.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LA LIGA 3
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151359
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LA LIGA 3 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LA_LIGA_3.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LA LIGA 3 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151360
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LA LIGA 3 " tvg-logo="http://zeta.ukhost.xyz:2052/images/2ae943a8a725d20b8ead5054ac11e962.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LA LIGA 3 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151361
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K LA LIGA TV BAR " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_LA_LIGATV_BAR.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K LA LIGA TV BAR 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151362
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 1 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 1 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151363
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 1" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 1
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151364
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 1" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 1
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151365
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 2" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 2
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151366
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 2" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 2
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151367
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 2 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 2 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151368
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 3 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_3.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 3 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151369
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 3 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_3.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 3 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151370
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 3 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_3.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 3 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151371
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 4" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_4.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 4
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151372
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 4 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_4.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 4 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151373
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 4 " tvg-logo="http://zeta.ukhost.xyz:2052/images/dc1cebac6d56a545f8518c36ede89afb.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 4 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151374
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 5" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_5.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 5
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151375
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 5" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_5.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 5
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151376
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 5" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_5.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 5
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151377
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 6" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_6.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 6
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151378
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 6" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_6.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 6
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151379
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 6" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_6.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 6
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151380
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 7 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_7.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 7 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151381
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 7 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_7.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 7 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151382
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 7 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_7.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 7 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151383
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 8 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_8.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 8 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151384
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 8 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_8.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 8 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151385
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 8" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_8.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 8
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151386
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 9 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_9.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 9 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151387
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 9" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_9.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 9
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151388
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 9" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_9.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 9
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151389
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 10 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_10.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 10 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151390
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 10 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_10.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 10 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151391
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 10 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_10.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 10 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151392
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 11 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_11.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 11 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151393
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 11" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_11.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 11
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151394
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 11 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_11.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 11 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151395
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 12 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_12.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 12 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151396
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 12" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_12.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 12
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151397
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 12" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_4.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 12
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151398
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 13" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_13.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 13
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151399
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 13 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_13.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 13 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151400
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 13" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_13.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 13
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151401
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN 1 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_DAZN_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD DAZN 1 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151402
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD DAZN 1" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_DAZN_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD DAZN 1
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151403
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN 1" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_DAZN_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K DAZN 1
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151404
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN 2" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_DAZN_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD DAZN 2
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151405
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD DAZN 2" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_DAZN_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD DAZN 2
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151406
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN 2 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_DAZN_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K DAZN 2 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151407
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN 3 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_DAZN_3.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD DAZN 3 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151408
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD  DAZN 3 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_DAZN_3.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD  DAZN 3 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151409
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN 3 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_DAZN_3.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K DAZN 3 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151410
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN 4 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_DAZN_4.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD DAZN 4 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151411
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD DAZN 4 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_DAZN_4.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD DAZN 4 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151412
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN 4 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_DAZN_4.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K DAZN 4 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151413
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN F1 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_DAZN_F1.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD DAZN F1 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151414
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD DAZN F1 " tvg-logo="http://zeta.ukhost.xyz:2052/images/eda08d867c72bd4bc783657c6d04ce6a.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD DAZN F1 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151415
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN F1" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_DAZN_F1.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K DAZN F1
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151416
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ VAMOS " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_VAMOS.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ VAMOS 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151417
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ VAMOS" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_VAMOS.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ VAMOS
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151418
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ VAMOS " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_VAMOS.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ VAMOS 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151419
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD BARCA TV " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_BARCA_TV.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD BARCA TV 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151420
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K  BARCA TV" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_BARCA_TV.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K  BARCA TV
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/217656
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD REAL MADRID " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_SD_REAL_MADRID_TV.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD REAL MADRID 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151421
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K REAL MADRID" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_REAL_MADRID_TV.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K REAL MADRID
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/217662
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD EUROSPORT 1" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_EUROSPORT_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD EUROSPORT 1
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151422
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD EUROSPORT 1" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_EUROSPORT_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD EUROSPORT 1
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151423
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K EUROSPORT 1 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_EUROSPORT_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K EUROSPORT 1 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151424
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD EUROSPORT 2 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_EUROSPORT_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD EUROSPORT 2 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151425
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD EUROSPORT 2" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_EUROSPORT_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD EUROSPORT 2
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151426
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K EUROSPORT 2 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_EUROSPORT_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K EUROSPORT 2 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151427
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_DEPORTES.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ DEPORTES
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151428
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES " tvg-logo="http://zeta.ukhost.xyz:2052/images/a8f6dfe4a46feca18e59b69c5d449b5c.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ DEPORTES 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151429
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_DEPORTES.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ DEPORTES 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151430
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES 2" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_DEPORTES%20copy.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ DEPORTES 2
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151431
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES 2" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_DEPORTES_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ DEPORTES 2
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151432
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES 2 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_DEPORTES_2.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ DEPORTES 2 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151433
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES 3" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_DEPORTES_3.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ DEPORTES 3
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151434
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD  M+ DEPORTES 3" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_DEPORTES_3.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD  M+ DEPORTES 3
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151435
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES 3" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_DEPORTES_3.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ DEPORTES 3
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151436
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES 4 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_DEPORTES_4.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ DEPORTES 4 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151437
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES 4 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_DEPORTES_4.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ DEPORTES 4 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151438
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES 4 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_DEPORTES_4.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ DEPORTES 4 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151439
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES 5" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_DEPORTES_5.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ DEPORTES 5
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151440
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES 5 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_DEPORTES_5.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ DEPORTES 5 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151441
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES 5" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_5.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ DEPORTES 5
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151442
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES 6 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_DEPORTES_6.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ DEPORTES 6 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151443
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES 6" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_DEPORTES_6.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ DEPORTES 6
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151444
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES 6 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_DEPORTES_6.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ DEPORTES 6 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151445
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES 7" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_DEPORTES_7.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ DEPORTES 7
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151446
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES 7 " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_DEPORTES_7.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ DEPORTES 7 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151447
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES 7" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_DEPORTES_7.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ DEPORTES 7
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151448
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ GOLF " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_GOLF.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ GOLF 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151449
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ GOLF " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_GOLF.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ GOLF 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151450
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ GOLF" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_GOLF.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ GOLF
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151451
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD TELEDEPORTE" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_TELEDEPORTE.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD TELEDEPORTE
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151452
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD TELEDEPORTE" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_TELEDEPORTE.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD TELEDEPORTE
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151453
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TELEDEPORTE " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_TELEDEPORTE.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K TELEDEPORTE 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151454
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD GOL " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_GOL.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD GOL 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151455
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD GOL " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_GOL.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD GOL 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151456
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K GOL" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_GOL.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K GOL
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151457
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES 1" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_DEPORTES_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ DEPORTES 1
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/151958
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LIGA_DE_CAMPEONES_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LIGA DE CAMPEONES 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/285649
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LIGA_DE_CAMPEONES_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LIGA DE CAMPEONES 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/285650
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LIGA_DE_CAMPEONES_1.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LIGA DE CAMPEONES 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/285651
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LA LIGA " tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/4K_M+_LA_LIGA.png" group-title=" ES | ESPAÑA DEPORTES",ES | 4K M+ LA LIGA 
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/285652
+#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LA LIGA" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/HD_M+_LA_LIGA.png" group-title=" ES | ESPAÑA DEPORTES",ES | HD M+ LA LIGA
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/285653
+#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LA LIGA" tvg-logo="http://exaott.xyz/lagi/ES_ESPANE_DEPORTES/SD_M+_LA_LIGA.png" group-title=" ES | ESPAÑA DEPORTES",ES | SD M+ LA LIGA
+http://0011.me:2052/megaottexchngechangehack/zkdlksldkkdlkskd/285654
