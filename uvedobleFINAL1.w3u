@@ -15,15 +15,15 @@
 {
 "name": "CANALES DEPORTIVOS (SIN ACESTREAM)",
 "image": "https://i.imgur.com/bPm3V5N.png",
-"url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/uvedobleapple1.m3u",
+"url": "https://pastebin.com/raw/RGCUf3PL",
 "info":"",
 "import": false
 },
 {
 "name": "CANALES PREMIUM",
 "image": "https://i.imgur.com/TjuTxxS.png",
-"url": "http://185.71.64.28:2052/get.php?username=ovhess&password=JzwQaZ2x9BNU&type=m3u_plus&output=ts",
-"info":"UVEDOBLE",
+"url": "https://pastebin.com/raw/23JNFSts",
+"info":"IPTV",
 "import": false
 },
 {
