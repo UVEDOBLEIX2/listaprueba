@@ -1,1 +1,44 @@
+{
+"name": "ACESTREAM IDS",
+"author": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
+"image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
 
+"groups":
+    [
+		{
+         "name": "PELICULAS",
+         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/PELIACHESTRIM",
+         "info":"LISTA UVEDOBLE",
+         "import": false
+        },
+		{
+         "name": "SERIES",
+         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+         "url": "",
+         "info":"PRÓXIMAMENTE",
+         "import": false
+        },
+        {
+         "name": "CANALES DEPORTIVOS",
+         "image": "https://images.daznservices.com/di/library/DAZN_News/2d/5d/2023-02-28-alonso-aston-martin-f1-formula-1_1c4dod46vqjam1o5io3cusgtdg.jpg?t=-1672051114",
+         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/ACHESTRIM",
+         "info":"LISTA UVEDOBLE",
+         "import": false
+        },
+		{
+         "name": "CANALES DEPORTIVOS (OPCION 2)",
+         "image": "https://play-lh.googleusercontent.com/HnxHBfsm9bEahEHxqNt3XzR0WE6zgAViyy7STU_EgkW8Po_0V305z6t6oyu24PLNomxz",
+         "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2xhc3RCYW5kaXQvcmVwby9tYWluL2Jhc2UudHh0&hl=248",
+         "info":"LISTA ELECTRO",
+         "import": false
+        },
+		{
+         "name": "CANALES DEPORTIVOS (OPCION 3)",
+         "image": "https://play-lh.googleusercontent.com/HnxHBfsm9bEahEHxqNt3XzR0WE6zgAViyy7STU_EgkW8Po_0V305z6t6oyu24PLNomxz",
+         "url": "https://pastebin.com/raw/LpW586A5",
+         "info":"LISTA LUCAS",
+         "import": false
+        }
+    ]
+}
