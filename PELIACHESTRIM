@@ -1,0 +1,62 @@
+{
+    "name": "PELICULAS ACESTREAM",
+    "author": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
+    "url": "http://wiwihd.jimdo.com/",
+    "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
+    "telegram": "",
+    "info": "PELICULAS",
+    "groups": 
+
+	[
+
+	{
+	"name": "PELICULAS 2023",
+	"image": "hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTShy2Lgk77nvnrMvr2mtNW_Bt-NoTl0aHzw&usqp=CAU",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+
+
+		{
+		"name": "Flash",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://pics.filmaffinity.com/Flash-205686824-large.jpg",
+		"url": "acestream://96f2e4446b4f840058ed84647c5073245004ef7e"
+		},
+		{
+		"name": "Transformers: El despertar de las bestias",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Transformers-El-despertar-de-las-bestias--BluRay-1080p.jpg",
+		"url": "acestream://815d8a603e3ceec4177a7f3d33feeae4329d7f97"
+		},
+		{
+		"name": "La sirenita",
+		"info":"ESPAÑOL 1080P",
+		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/La-sirenita--2023---BluRay-1080p.jpg",
+		"url": "acestream://3bacbb8b927515bf099116a407c644a2a77c528d"
+		},
+		{
+		"name": "Agente Stone",
+		"info":"ESPAÑOL 720P",
+		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Agente-Stone--2023---BluRay-1080p.jpg",
+		"url": "acestream://7ce73b89de1f6016facc60cfbc9d5b52c68934ee"
+		},
+		{
+		"name": "Shazam La furia de los dioses",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://wolfmax4k.com/assets/u/p/f/thumbs/Shazam-La-furia-de-los-dioses--BluRay-1080p.jpg",
+		"url": "acestream://5d54abf610f589a0a900f234f1371dfe3299b7bf"
+		},
+		{
+		"name": "PROXIMAMENTE MAS",
+		"info": "",
+		"image": "",
+		"url": ""
+		}
+
+		]
+	}
+
+	]
+}
