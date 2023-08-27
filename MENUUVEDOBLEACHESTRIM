@@ -7,7 +7,7 @@
     [
 		{
          "name": "PELICULAS",
-         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
+         "image": "https://vod.roams.es/images/post/es_ES_vod/netflix-peliculas-accion.jpg",
          "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/PELIACHESTRIM",
          "info":"LISTA UVEDOBLE",
          "import": false
@@ -21,7 +21,7 @@
         },
         {
          "name": "CANALES DEPORTIVOS",
-         "image": "https://images.daznservices.com/di/library/DAZN_News/2d/5d/2023-02-28-alonso-aston-martin-f1-formula-1_1c4dod46vqjam1o5io3cusgtdg.jpg?t=-1672051114",
+         "image": "https://play-lh.googleusercontent.com/HnxHBfsm9bEahEHxqNt3XzR0WE6zgAViyy7STU_EgkW8Po_0V305z6t6oyu24PLNomxz",
          "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/ACHESTRIM",
          "info":"LISTA UVEDOBLE",
          "import": false
