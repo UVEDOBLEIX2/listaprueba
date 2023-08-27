@@ -450,12 +450,6 @@
 			"info":"OPCION 3",
 			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
 			"url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
-			},
-			{
-			"name": "DAZN F1 [4k]",
-			"info":"OPCION 4",
-			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-			"url": "acestream://5c340fa3440fef0f9330187cb53e09350d1de270"
 			}
 		]
 	},
@@ -472,6 +466,22 @@
 			"info":"df83",
 			"image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
 			"url": "acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83"
+			}
+		]
+	},
+
+	{
+	"name": "CANALES 4K",
+	"image": "https://img.freepik.com/vector-premium/icono-4k-ultra-hd_97458-93.jpg",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+			{
+			"name": "MOVISTAR UHD",
+			"info":"SOLO EN EVENTOS",
+			"image": "https://i.blogs.es/9d74a9/movistar-4k-portada/1366_2000.jpg",
+			"url": "acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899"
 			}
 		]
 	},
