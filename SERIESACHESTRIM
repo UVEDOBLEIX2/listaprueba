@@ -1,0 +1,68 @@
+{
+    "name": "SERIES ACESTREAM",
+    "author": "SERIES | ㄩᐯ乇ᗪㄖ乃ㄥ乇",
+    "url": "http://wiwihd.jimdo.com/",
+    "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
+    "telegram": "http://wiwihd.jimdo.com",
+    "info": "SERIES",
+    "groups": 
+
+	[
+
+	{
+	"name": "Secuestro en el aire (2023)",
+	"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//series/hijack-763698932-mmed.jpg",
+	"imageScale": "",
+	"info":"APPLE TV",
+	"stations":
+		[
+
+
+		{
+		"name": "Secuestro en el aire",
+		"info": "CAPITULO 1",
+		"image": "",
+		"url": "acestream://9f796901780f2371f165ef002e420ef46b484e90"
+		},
+		{
+		"name": "Secuestro en el aire",
+		"info": "CAPITULO 2",
+		"image": "",
+		"url": "acestream://89500fc6cf63c1de5d81db66eae33324c661c6c4"
+		},
+		{
+		"name": "Secuestro en el aire",
+		"info":"CAPITULO 3",
+		"image": "",
+		"url": "acestream://282acb6997040bc868c196db650232f2e8239500"
+		},
+		{
+		"name": "Secuestro en el aire",
+		"info":"CAPITULO 4",
+		"image": "",
+		"url": "acestream://c1d79b3cd56e77a552b8f1d7aef35e05f88a47a0"
+		},
+		{
+		"name": "Secuestro en el aire",
+		"info": "CAPITULO 5",
+		"image": "",
+		"url": "acestream://b90129e09d4b42b3819d32974e47869f381948e1"
+		},
+		{
+		"name": "Secuestro en el aire",
+		"info": "CAPITULO 6",
+		"image": "",
+		"url": "acestream://c7a03cbe925ba87d7ca6b2732c18482f81b04294"
+		},
+		{
+		"name": "Secuestro en el aire",
+		"info": "CAPITULO 7",
+		"image": "",
+		"url": "acestream://6c6686c2d12d5cebacf400f3e0c0ec84a938dfca"
+		}
+
+		]
+	}
+
+	]
+}
