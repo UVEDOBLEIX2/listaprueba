@@ -10,7 +10,7 @@
 	[
 
 	{
-	"name": "PELICULAS 2023",
+	"name": "PELICULAS 2022-2023",
 	"image": "hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTShy2Lgk77nvnrMvr2mtNW_Bt-NoTl0aHzw&usqp=CAU",
 	"imageScale": "",
 	"info":"",
@@ -59,6 +59,16 @@
 		"info": "ESPAÑOL 1080p",
 		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Spider-Man-Cruzando-el-Multiverso--2023---BluRay-1080p.jpg",
 		"url": "acestream://bea09e9c4de96b3a4ec5fe65a0ab1a8faf068b11"
+		},
+		"name": "FAST X",
+		"info": "INGLES SUBTITULADO 1080p",
+		"image": "https://pics.filmaffinity.com/Fast_Furious_X-556821969-large.jpg",
+		"url": "acestream://71884bedb988b51da5eea2d557d5a6c4f3ff5c81"
+		},
+		"name": "NOPE",
+		"info": "ESPAÑOL 1080p",
+		"image": "https://pics.filmaffinity.com/Nop-999319780-large.jpg",
+		"url": "acestream://12caafadea3997a4ea3418a05035fbf6c20e37b8"
 		},
 		{
 		"name": "Megalodon 2",
