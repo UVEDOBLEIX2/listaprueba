@@ -7,35 +7,35 @@
     [
 		{
          "name": "PELICULAS",
-         "image": "https://www.pngall.com/wp-content/uploads/13/Movie-PNG-Free-Image.png",
+         "image": "https://i.imgur.com/sbeU2yu.png",
          "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/PELIACHESTRIM",
          "info":"",
          "import": false
         },
 		{
          "name": "SERIES",
-         "image": "https://cdn-icons-png.flaticon.com/512/5554/5554353.png",
+         "image": "https://i.imgur.com/5IAlTkx.png",
          "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/SERIESACHESTRIM",
          "info":"",
          "import": false
         },
         {
-         "name": "CANALES DEPORTIVOS",
-         "image": "https://play-lh.googleusercontent.com/HnxHBfsm9bEahEHxqNt3XzR0WE6zgAViyy7STU_EgkW8Po_0V305z6t6oyu24PLNomxz",
+         "name": "DEPORTES",
+         "image": "https://i.imgur.com/8GEMpSH.png",
          "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/ACHESTRIM",
          "info":"LISTA UVEDOBLE",
          "import": false
         },
 		{
-         "name": "CANALES DEPORTIVOS (OPCION 2)",
-         "image": "https://play-lh.googleusercontent.com/HnxHBfsm9bEahEHxqNt3XzR0WE6zgAViyy7STU_EgkW8Po_0V305z6t6oyu24PLNomxz",
+         "name": "DEPORTES (OPCION 2)",
+         "image": "https://i.imgur.com/0ynwGTv.png",
          "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2xhc3RCYW5kaXQvcmVwby9tYWluL2Jhc2UudHh0&hl=248",
          "info":"LISTA ELECTRO",
          "import": false
         },
 		{
-         "name": "CANALES DEPORTIVOS (OPCION 3)",
-         "image": "https://play-lh.googleusercontent.com/HnxHBfsm9bEahEHxqNt3XzR0WE6zgAViyy7STU_EgkW8Po_0V305z6t6oyu24PLNomxz",
+         "name": "DEPORTES (OPCION 3)",
+         "image": "https://i.imgur.com/UyhLV5E.png",
          "url": "https://pastebin.com/raw/LpW586A5",
          "info":"LISTA LUCAS",
          "import": false
