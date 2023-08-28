@@ -49,6 +49,12 @@
 		"url": "acestream://5d54abf610f589a0a900f234f1371dfe3299b7bf"
 		},
 		{
+		"name": "Spiderman: No way home",
+		"info": "ESPAÑOL 1440P (TARDA EN CARGAR)",
+		"image": "https://pics.filmaffinity.com/Spider_Man_No_Way_Home-642739124-large.jpg",
+		"url": "acestream://6dff7ffba4e22e6787f6e3c91f9b1781047c688b"
+		},
+		{
 		"name": "Megalodon 2",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://es.web.img3.acsta.net/pictures/23/05/09/10/42/0347977.jpg",
@@ -56,30 +62,9 @@
 		}
 
 		]
-	}
-	{
-	"name": "PELICULAS 2022",
-	"image": "hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTShy2Lgk77nvnrMvr2mtNW_Bt-NoTl0aHzw&usqp=CAU",
-	"imageScale": "",
-	"info":"",
-	"stations":
-		[
 
 
-		{
-		"name": "Spiderman: No way home",
-		"info": "ESPAÑOL 1440P (TARDA EN CARGAR)",
-		"image": "https://pics.filmaffinity.com/Spider_Man_No_Way_Home-642739124-large.jpg",
-		"url": "acestream://6dff7ffba4e22e6787f6e3c91f9b1781047c688b"
-		},
-		{
-		"name": "PROXIMAMENTE MAS",
-		"info": "",
-		"image": "",
-		"url": ""
-		}
-
-		]
+		
 	}
 
 	]
