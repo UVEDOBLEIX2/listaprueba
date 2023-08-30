@@ -10,7 +10,7 @@
 	[
 
 	{
-	"name": "PELICULAS 2022-2023",
+	"name": "PELICULAS",
 	"image": "hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTShy2Lgk77nvnrMvr2mtNW_Bt-NoTl0aHzw&usqp=CAU",
 	"imageScale": "",
 	"info":"",
@@ -77,6 +77,30 @@
 		"info": "ESPAÑOL 1080P",
 		"image": "https://es.web.img3.acsta.net/pictures/23/05/09/10/42/0347977.jpg",
 		"url": "acestream://511f19cb8699ce7d26a8ae1ea79ffe12fae7103e"
+		},
+		{
+		"name": "Her.",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://es.web.img3.acsta.net/pictures/23/05/09/10/42/0347977.jpg",
+		"url": "acestream://71e61adf11c1eed462551f2868c2c88675eafe39"
+		},
+		{
+		"name": "Ha nacido una estrella",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Ha%20nacido%20una%20estrellabb.jpg",
+		"url": "acestream://68ded72954e65f3b61c9e15726586cadc49d1416"
+		},
+		{
+		"name": "La ballena",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/La-ballena--The-Whale---2022---BluRay-1080p.jpg",
+		"url": "acestream://a6b9572a5d12f35af5509b603d045ecd6cc9337d"
+		},
+		{
+		"name": "John Wick 4",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://pics.filmaffinity.com/John_Wick_4-101402041-large.jpg",
+		"url": "acestream://9d1c49409ab68f4a6766541120385890865510c7"
 		}
 
 		]
