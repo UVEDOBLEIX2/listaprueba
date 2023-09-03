@@ -27,17 +27,17 @@
          "import": false
         },
 		{
-         "name": "DEPORTES (SOLO ZERONET)",
+         "name": "DEPORTES (OPCION 2)",
          "image": "https://i.imgur.com/0ynwGTv.png",
-         "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista1.m3u",
-         "info":"LISTA PMEISTER",
+         "url": "https://lista.pages.dev/",
+         "info":"",
          "import": false
         },
 		{
-         "name": "DEPORTES (SOLO ZERONET)",
+         "name": "DEPORTES (OPCION 3)",
          "image": "https://i.imgur.com/UyhLV5E.png",
-         "url": "http://127.0.0.1:43110/1EoakGCUsHZrjMe9V86PBktkzn8T7LK2rG/channels.txt",
-         "info":"LISTA ELECTRO",
+         "url": "https://pastebin.com/raw/LpW586A5",
+         "info":"",
          "import": false
         }
     ]
