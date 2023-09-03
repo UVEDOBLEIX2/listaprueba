@@ -27,17 +27,17 @@
          "import": false
         },
 		{
-         "name": "DEPORTES (OFFLINE)",
+         "name": "DEPORTES (SOLO ZERONET)",
          "image": "https://i.imgur.com/0ynwGTv.png",
-         "url": "http://127.0.0.1:43110/1EoakGCUsHZrjMe9V86PBktkzn8T7LK2rG/channels.txt",
-         "info":"LISTA ELECTRO",
+         "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista1.m3u",
+         "info":"LISTA PMEISTER",
          "import": false
         },
 		{
-         "name": "DEPORTES (MOVISTAR Y VODAFONE NO VAN)",
+         "name": "DEPORTES (SOLO ZERONET)",
          "image": "https://i.imgur.com/UyhLV5E.png",
-         "url": "https://pastebin.com/raw/LpW586A5",
-         "info":"LISTA AFICIONADOS",
+         "url": "http://127.0.0.1:43110/1EoakGCUsHZrjMe9V86PBktkzn8T7LK2rG/channels.txt",
+         "info":"LISTA ELECTRO",
          "import": false
         }
     ]
