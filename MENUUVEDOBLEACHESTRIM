@@ -27,17 +27,17 @@
          "import": false
         },
 		{
-         "name": "DEPORTES (OPCION 2)",
+         "name": "DEPORTES (NO ACTIVA)",
          "image": "https://i.imgur.com/0ynwGTv.png",
          "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2xhc3RCYW5kaXQvcmVwby9tYWluL2Jhc2UudHh0&hl=248",
          "info":"LISTA ELECTRO",
          "import": false
         },
 		{
-         "name": "DEPORTES (OPCION 3)",
+         "name": "DEPORTES (NO FUNCIONA CON MOVISTAR NI VODAFONE)",
          "image": "https://i.imgur.com/UyhLV5E.png",
          "url": "https://pastebin.com/raw/LpW586A5",
-         "info":"LISTA LUCAS",
+         "info":"LISTA AFICIONADOS",
          "import": false
         }
     ]
