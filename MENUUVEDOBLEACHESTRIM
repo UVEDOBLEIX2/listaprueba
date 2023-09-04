@@ -46,22 +46,6 @@
          "url": "https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av",
          "info":"",
          "import": false
-        },
-        {
-        "name": "Fernando",
-        "info":"",
-        "image": "https://i.postimg.cc/bJ4PWfBv/Fernando.jpg",
-        "url": "https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av",
-        "embed":"",
-        "isHost":"true",
-        "online":"true"
-        },
-	{
-         "name": "pruebas2",
-         "image": "",
-         "url": "https://sg.hideip.co/secure/Q1~FFDXUnpxU56gEH3rP7_hIQ7SUZayQs922zMDXeGI-",
-         "info":"",
-         "import": false
         }
     ]
 }
