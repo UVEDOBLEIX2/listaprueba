@@ -77,6 +77,30 @@
 		"info": "VOSE",
 		"image": "",
 		"url": "acestream://724d9c4d9753cbb088176c6d864fb3f502c05e21"
+		},
+		{
+		"name": "T2 COMPLETA",
+		"info": "VOSE",
+		"image": "",
+		"url": "acestream://e1b249319b3eb44f043d3a65dc79fe9cc5631d57"
+		},
+		{
+		"name": "T3 COMPLETA",
+		"info": "VOSE",
+		"image": "",
+		"url": "acestream://491bcde8dc1a969c63931083d529566ea5c2da10"
+		},
+		{
+		"name": "T4 COMPLETA",
+		"info": "VOSE",
+		"image": "",
+		"url": "acestream://8644be23f376c0dbd39f7f02621518616d988e98"
+		},
+		{
+		"name": "T5 COMPLETA",
+		"info": "VOSE",
+		"image": "",
+		"url": "acestream://02fbb58184005496fbdc4bc7c5c65500bed7260b"
 		}
 
 		]
