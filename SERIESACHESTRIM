@@ -62,6 +62,24 @@
 		}
 
 		]
+	},
+	{
+	"name": "FORMULA 1: DRIVE TO SURVIVE",
+	"image": "https://pbs.twimg.com/media/FonfgWRXoAAEIQN.jpg:large",
+	"imageScale": "",
+	"info":"APPLE TV",
+	"stations":
+		[
+
+
+		{
+		"name": "T1 COMPLETA",
+		"info": "VOSE",
+		"image": "",
+		"url": "acestream://724d9c4d9753cbb088176c6d864fb3f502c05e21"
+		}
+
+		]
 	}
 
 	]
