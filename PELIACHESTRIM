@@ -19,16 +19,28 @@
 
 
 		{
+		"name": "**NUEVA** EL PEOR VECINO DEL MUNDO",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://pics.filmaffinity.com/El_peor_vecino_del_mundo-127395772-large.jpg",
+		"url": "acestream://bfeb28cb9dbef6d48dbd88827496c67f337c936d"
+		},
+		{
+		"name": "**NUEVA** FAST X",
+		"info": "ESPAÑOL 1080p",
+		"image": "https://pics.filmaffinity.com/Fast_Furious_X-556821969-large.jpg",
+		"url": "acestream://9df722ed6f3fe0760981cfb0f027e08bd192c761"
+		},
+		{
+		"name": "**NUEVA** BARBIE",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://es.web.img2.acsta.net/pictures/23/07/20/11/29/5479684.jpg",
+		"url": "acestream://3a9beec0ff124ea11d77009950835eb7945dd819"
+		},
+		{
 		"name": "Flash",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://pics.filmaffinity.com/Flash-205686824-large.jpg",
 		"url": "acestream://96f2e4446b4f840058ed84647c5073245004ef7e"
-		},
-		{
-		"name": "BARBIE",
-		"info": "V.O 1080P",
-		"image": "https://es.web.img2.acsta.net/pictures/23/07/20/11/29/5479684.jpg",
-		"url": "acestream://8107da1ee1ebe6f72276345dc5c29cae72e1a659"
 		},
 		{
 		"name": "Transformers: El despertar de las bestias",
@@ -68,9 +80,9 @@
 		},
 		{
 		"name": "FAST X",
-		"info": "INGLES SUBTITULADO 1080p",
+		"info": "ESPAÑOL 1080p",
 		"image": "https://pics.filmaffinity.com/Fast_Furious_X-556821969-large.jpg",
-		"url": "acestream://71884bedb988b51da5eea2d557d5a6c4f3ff5c81"
+		"url": "acestream://9df722ed6f3fe0760981cfb0f027e08bd192c761"
 		},
 		{
 		"name": "NOPE",
