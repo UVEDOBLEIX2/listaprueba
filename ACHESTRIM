@@ -501,7 +501,7 @@
 
 	{
 	"name": "VAMOS, ELLAS Y M+",
-	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/1200px-Movistar_Plus%2B_2022_logo.svg.png",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
 	"imageScale": "",
 	"info": "",
 	"stations":
@@ -527,7 +527,7 @@
 			{
 			"name": "M+ [1080]",
 			"info": "75c0",
-			"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/1200px-Movistar_Plus%2B_2022_logo.svg.png",
 			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
 			}
 		]
