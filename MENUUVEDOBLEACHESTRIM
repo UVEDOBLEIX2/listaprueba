@@ -29,21 +29,14 @@
 	{
          "name": "DEPORTES (OPCION 2)",
          "image": "https://i.imgur.com/0ynwGTv.png",
-         "url": "https://lista.pages.dev/",
-         "info":"",
+         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/wowoacelalala",
+         "info":"LISTA UVEDOBLE",
          "import": false
         },
 	{
          "name": "DEPORTES (OPCION 3)",
          "image": "https://i.imgur.com/UyhLV5E.png",
          "url": "https://pastebin.com/raw/LpW586A5",
-         "info":"",
-         "import": false
-        },
-	{
-         "name": "pruebas1",
-         "image": "",
-         "url": "https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av",
          "info":"",
          "import": false
         }
