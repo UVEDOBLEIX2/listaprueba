@@ -9,54 +9,7 @@
 
 	[
 
-	{
-	"name": "MUNDIAL BASKET 2023",
-	"image": "https://i.postimg.cc/kM2W4XG4/Fiba-2023-new-2.png",
-	"imageScale": "",
-	"info":"",
-	"stations":
-		[
 
-
-		{
-		"name": "GOL MUNDIAL BASKET 1",
-		"info": "CANAL 1",
-		"image": "https://telegra.ph/file/e0a91c5adcde0f3272943.jpg",
-		"url": "acestream://78384a676407784df944243eb2f75d937fbcc253"
-		},
-		{
-		"name": "GOL MUNDIAL BASKET 1",
-		"info": "CANAL 1",
-		"image": "https://telegra.ph/file/e0a91c5adcde0f3272943.jpg",
-		"url": "acestream://2288e220d02b9d0364a95a36087a45d9ecb9e2b4"
-		},
-		{
-		"name": "GOL MUNDIAL BASKET 2",
-		"info":"CANAL 2",
-		"image": "https://telegra.ph/file/33058fa92054dce6e1e12.jpg",
-		"url": "acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b"
-		},
-		{
-		"name": "GOL MUNDIAL BASKET 2",
-		"info":"CANAL 2",
-		"image": "https://telegra.ph/file/33058fa92054dce6e1e12.jpg",
-		"url": "acestream://a248e0e3649b135d3e3a806874153f8bccd32e4a"
-		},
-		{
-		"name": "GOL MUNDIAL BASKET 3",
-		"info": "CANAL 3",
-		"image": "https://telegra.ph/file/a89a02e875bc727f425d7.jpg",
-		"url": "acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd"
-		},
-		{
-		"name": "GOL MUNDIAL BASKET 4",
-		"info": "CANAL 4",
-		"image": "https://telegra.ph/file/138cd46b2a835497b718a.jpg",
-		"url": "acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e"
-		}
-
-		]
-	},
 
 	{
 	"name": "LA LIGA EA SPORT",
@@ -65,6 +18,12 @@
 	"info":"",
 	"stations":
 		[
+		{
+		"name": "Movistar Laliga UHD",
+		"info": "4K SOLO EVENTOS",
+		"image": "https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_UHD.png",
+		"url": "acestream://be071f7a5977de40f8f024a8ae582e799a6c4b8c"
+		},
 		{
 		"name": "DAZN LaLiga [1080][Multiaudio]",
 		"info": "290a",
