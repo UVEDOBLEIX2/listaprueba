@@ -18,12 +18,7 @@
 	"info":"",
 	"stations":
 		[
-		{
-		"name": "Movistar Laliga UHD",
-		"info": "4K SOLO EVENTOS",
-		"image": "https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_UHD.png",
-		"url": "acestream://be071f7a5977de40f8f024a8ae582e799a6c4b8c"
-		},
+
 		{
 		"name": "DAZN LaLiga [1080][Multiaudio]",
 		"info": "290a",
@@ -442,13 +437,7 @@
 	"info":"",
 	"stations":
 		[
-			{
-		{
-		"name": "Movistar Laliga UHD",
-		"info": "4K SOLO EVENTOS",
-		"image": "https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_UHD.png",
-		"url": "acestream://be071f7a5977de40f8f024a8ae582e799a6c4b8c"
-		},
+			
 			{
 			"name": "MOVISTAR UHD",
 			"info":"SOLO DISPOSITIVOS 4K",
@@ -511,8 +500,8 @@
 	},
 
 	{
-	"name": "M #VAMOS",
-	"image": "https://i.postimg.cc/XNwR4GkG/logo-canal-vamos.png",
+	"name": "VAMOS, ELLAS Y M+",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/1200px-Movistar_Plus%2B_2022_logo.svg.png",
 	"imageScale": "",
 	"info": "",
 	"stations":
@@ -527,7 +516,19 @@
 			"name": "M #Vamos [720]",
 			"info": "7fa0",
 			"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-			"url": "acestream://acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+			"url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
+			},
+			{
+			"name": "M #Ellas [1080]",
+			"info": "2830",
+			"image": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/04/1_0_19_78B5_3EC_1_C00000_0_0_0-1.png?resize=440%2C264&ssl=1",
+			"url": "acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830"
+			},
+			{
+			"name": "M+ [1080]",
+			"info": "75c0",
+			"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
 			}
 		]
 	},
@@ -544,12 +545,6 @@
 			"info":"0b47",
 			"image": "https://i.ibb.co/swhGnw4/La1.jpg",
 			"url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
-			},
-			{
-			"name": "LA 1 UHD [1080][Multiaudio]",
-			"info":"50af",
-			"image": "https://i.ibb.co/swhGnw4/La1.jpg",
-			"url": "acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af"
 			},
 			{
 			"name": "TDP [TeleDeporte] [1080p]",
