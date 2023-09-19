@@ -175,6 +175,42 @@
 	},
 
 	{
+	"name": "DAZN LIGA F",
+	"image": "https://i.postimg.cc/GtRFXhDX/La-Liga-F-new.png",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+ 
+		{
+		"name": "DAZN LIGA F 1",
+		"info": "CANAL 1",
+		"image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
+		"url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
+		},
+		{
+		"name": "DAZN LIGA F 2",
+		"info":"CANAL 2",
+		"image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
+		"url": "acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b"
+		},
+		{
+		"name": "DAZN LIGA F 3",
+		"info": "CANAL 3",
+		"image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
+		"url": "acestream://162942adc047d0f78eac056effbe5bbec54a5e51"
+		},
+		{
+		"name": "DAZN LIGA F 4",
+		"info": "CANAL 4",
+		"image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
+		"url": "acestream://e454681a152a86da504e63694f17f90d0586867d"
+		}
+ 
+		]
+	},
+
+	{
 	"name": "LIGA DE CAMPEONES",
 	"image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
 	"imageScale": "",
@@ -183,19 +219,25 @@
 		[
 			{
 			"name": "M. Liga de Campeones [1080][Multiaudio]",
-			"info": "b51c",
+			"info": "OPCION 1",
 			"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
 			"url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"
 			},
 			{
 			"name": "M. Liga de Campeones [1080][Multiaudio]",
-			"info": "493b",
+			"info": "OPCION 2",
 			"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
 			"url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
 			},
 			{
 			"name": "M. Liga de Campeones [720]",
-			"info": "7495",
+			"info": "OPCION 3",
+			"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+			"url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"
+			},
+			{
+			"name": "M. Liga de Campeones [720]",
+			"info": "OPCION 4",
 			"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
 			"url": "acestream://90beb42e9e276854348bc91a9ff3c3e46c617495"
 			},
@@ -218,6 +260,12 @@
 			"url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
 			},
 			{
+			"name": "M. Liga de Campeones 3 [1080]",
+			"info": "9fa7",
+			"image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png",
+			"url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+			},
+			{
 			"name": "M. Liga de Campeones 3 [720]",
 			"info": "3f24",
 			"image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png",
@@ -225,7 +273,7 @@
 			},
 			{
 			"name": "M. Liga de Campeones 4",
-			"info": "d1fa",
+			"info": "MULTI",
 			"image": "https://i.postimg.cc/HxVSdbJz/Liga-de-Campeones-4-por-Movistar-Plus-2022-logo.png",
 			"url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
 			},
@@ -276,6 +324,42 @@
 			"info": "e854",
 			"image": "https://i.postimg.cc/K8NwBV3t/Liga-de-Campeones-12-por-Movistar-Plus-2022-logo.png",
 			"url": "acestream://33369549c635dabdb78b95c478c21fcc9e4ee854"
+			},
+			{
+			"name": "ELEVEN SPORT 1",
+			"info": "INTERNACIONAL",
+			"image": "",
+			"url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
+			},
+			{
+			"name": "ELEVEN SPORT 2",
+			"info": "INTERNACIONAL",
+			"image": "",
+			"url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"
+			},
+			{
+			"name": "ELEVEN SPORT 3",
+			"info": "INTERNACIONAL",
+			"image": "",
+			"url": "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e"
+			},
+			{
+			"name": "SKY BUNDESLIGA 1 HD",
+			"info": "INTERNACIONAL",
+			"image": "",
+			"url": "acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b"
+			},
+			{
+			"name": "DAZN BAR 1 ALEMANIA",
+			"info": "INTERNACIONAL",
+			"image": "",
+			"url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+			},
+			{
+			"name": "SKY SPORT ENGLAND",
+			"info": "INTERNACIONAL",
+			"image": "",
+			"url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"
 			}
 		]
 	},
@@ -481,6 +565,18 @@
 			"url": "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041"
 			},
 			{
+			"name": "SKY BUNDESLIGA UHD",
+			"info":"SOLO DISPOSITIVOS 4K",
+			"image": "",
+			"url": "acestream://169da1e59ffd3947c09d65eb1a0de0c831bef390"
+			},
+			{
+			"name": "WIMBLEDON UHD",
+			"info":"SOLO DISPOSITIVOS 4K",
+			"image": "",
+			"url": "acestream://78aa81aedb1e2b6a9ba178398148940857155f6a"
+			},
+			{
 			"name": "LA 1",
 			"info":"SOLO DISPOSITIVOS 4K",
 			"image": "https://i.postimg.cc/FzdPMFp5/tve4k.png",
@@ -542,6 +638,41 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/1200px-Movistar_Plus%2B_2022_logo.svg.png",
 			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
 			}
+		]
+	},
+
+	{
+	"name": "EVENTOS",
+	"image": "https://media.istockphoto.com/id/978975308/es/vector/vector-de-signos-de-ne%C3%B3n-de-pr%C3%B3ximos-eventos-pr%C3%B3ximos-eventos-dise%C3%B1o-plantilla-anuncio-de.jpg?s=612x612&w=0&k=20&c=kgrVP_sJNXVsDs4WYyh5fwgSyIspT39F-fm4IDylbng=",
+	"stations":
+		[
+			{
+			"name": "Sporting Braga v Napoli",
+			"info": "SOLO EVENTOS",
+			"image": "",
+			"url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce"
+			},
+			{
+			"name": "Manchester City v Red Star Belgrade",
+			"info": "SOLO EVENTOS",
+			"image": "",
+			"url": "acestream://61406657d603e441027e96bab8e5cc7d49de4fb1"
+			},			{
+			"name": "Barcelona v Antwerp SD",
+			"info": "SOLO EVENTOS",
+			"image": "",
+			"url": "acestream://5d6f51cb6525784953e542a0c1a0df820ec974ec"
+			},			{
+			"name": "prueba M+",
+			"info": "SOLO EVENTOS",
+			"image": "",
+			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+			},			{
+			"name": "BEIN Ñ",
+			"info": "SOLO EVENTOS",
+			"image": "",
+			"url": "acestream://41af6926a6010b68ba2540975761436bb077748f"
+			},
 		]
 	},
 
