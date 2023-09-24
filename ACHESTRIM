@@ -653,10 +653,22 @@
 	"stations":
 		[
 			{
-			"name": "ATM VS MAD",
+			"name": "ATM VS MAD OPCION1",
 			"info": "SOLO EVENTOS",
 			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/18/16635163150732.jpg",
 			"url": "acestream://9bbf074a042efeb863ddb438dea39c3a9980a39b"
+			},
+			{
+			"name": "ATM VS MAD OPCION2",
+			"info": "SOLO EVENTOS",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/18/16635163150732.jpg",
+			"url": "https://daddylive.watch/stream/stream-538.php"
+			},
+			{
+			"name": "ATM VS MAD OPCION2",
+			"info": "SOLO EVENTOS",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/18/16635163150732.jpg",
+			"url": "acestream://fa7191385335c55b0ba82ad708303ed5008f579d"
 			}
 		]
 	},
