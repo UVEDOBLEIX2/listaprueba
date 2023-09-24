@@ -653,32 +653,11 @@
 	"stations":
 		[
 			{
-			"name": "Sporting Braga v Napoli",
+			"name": "ATM VS MAD",
 			"info": "SOLO EVENTOS",
-			"image": "",
-			"url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce"
-			},
-			{
-			"name": "Manchester City v Red Star Belgrade",
-			"info": "SOLO EVENTOS",
-			"image": "",
-			"url": "acestream://61406657d603e441027e96bab8e5cc7d49de4fb1"
-			},			{
-			"name": "Barcelona v Antwerp SD",
-			"info": "SOLO EVENTOS",
-			"image": "",
-			"url": "acestream://5d6f51cb6525784953e542a0c1a0df820ec974ec"
-			},			{
-			"name": "prueba M+",
-			"info": "SOLO EVENTOS",
-			"image": "",
-			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
-			},			{
-			"name": "BEIN Ñ",
-			"info": "SOLO EVENTOS",
-			"image": "",
-			"url": "acestream://41af6926a6010b68ba2540975761436bb077748f"
-			},
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/18/16635163150732.jpg",
+			"url": "acestream://9bbf074a042efeb863ddb438dea39c3a9980a39b"
+			}
 		]
 	},
 
