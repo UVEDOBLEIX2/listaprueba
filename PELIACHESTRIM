@@ -17,33 +17,50 @@
 	"stations":
 		[
 
-
 		{
-		"name": "**NUEVA** EL PEOR VECINO DEL MUNDO",
+		"name": "**NUEVA** SUPER MARIO BROS",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The-Super-Mario-Bros-Movie--2023---BluRay-1080p.jpg",
+		"url": "acestream://ae63320ed45dd9e6f8c4ca546f5e8af475b8b4b8"
+		},
+		{
+		"name": "**NUEVA** GRAN TURISMO",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://pics.filmaffinity.com/Gran_Turismo-703890981-large.jpg",
+		"url": "acestream://27de40c799b4aaa883b5860258dd0a255b6bc96f"
+		},
+		{
+		"name": "**NUEVA** BLUE BEETLE",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://m.media-amazon.com/images/M/MV5BMmY1ODUzZGItNDllOS00MDBhLTg4NmUtYjU4YjUxMGNlYmMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+		"url": "acestream://7c60be8f6c8800ecfcb04f5321eecd1a12a6434b"
+		},
+		{
+		"name": "EL PEOR VECINO DEL MUNDO",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://pics.filmaffinity.com/El_peor_vecino_del_mundo-127395772-large.jpg",
 		"url": "acestream://bfeb28cb9dbef6d48dbd88827496c67f337c936d"
 		},
 		{
-		"name": "**NUEVA** LLAMAN A LA PUERTA",
+		"name": "LLAMAN A LA PUERTA",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://pics.filmaffinity.com/Llaman_a_la_puerta-362107236-large.jpg",
 		"url": "acestream://31443eb357d49ed0d8603eb5145ed5c06746c3ee"
 		},
 		{
-		"name": "**NUEVA** INSIDIOUS: LA PUERTA ROJA",
+		"name": "INSIDIOUS: LA PUERTA ROJA",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://pics.filmaffinity.com/Insidious_La_puerta_roja-842155229-large.jpg",
 		"url": "acestream://4e8dbe9c4ea9e7fd302726444a8b6f24948e9bde"
 		},
 		{
-		"name": "**NUEVA** FAST X",
+		"name": "FAST X",
 		"info": "ESPAÑOL 1080p",
 		"image": "https://pics.filmaffinity.com/Fast_Furious_X-556821969-large.jpg",
 		"url": "acestream://9df722ed6f3fe0760981cfb0f027e08bd192c761"
 		},
 		{
-		"name": "**NUEVA** BARBIE",
+		"name": "BARBIE",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://es.web.img2.acsta.net/pictures/23/07/20/11/29/5479684.jpg",
 		"url": "acestream://3a9beec0ff124ea11d77009950835eb7945dd819"
