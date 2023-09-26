@@ -1,6 +1,6 @@
 {
     "name": "ACESTREAM ID",
-    "author": "ACTUALIZADO 24 SEPTIEMBRE 2023",
+    "author": "ACTUALIZADO 26 SEPTIEMBRE 2023",
     "url": "http://wiwihd.jimdo.com/",
     "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
     "telegram": "",
@@ -10,6 +10,19 @@
 	[
 
 
+	{
+	"name": "UVEDOBLE LIVE",
+	"image": "https://i.imgur.com/Tykb6LF.png",
+	"stations":
+		[
+			{
+			"name": "UVEDOBLE LIVE",
+			"info": "SOLO EVENTOS",
+			"image": "https://i.imgur.com/Tykb6LF.png",
+			"url": "https://2a18-185-13-202-230.ngrok-free.app/"
+			}
+		]
+	},
 
 	{
 	"name": "LA LIGA EA SPORT",
@@ -653,22 +666,10 @@
 	"stations":
 		[
 			{
-			"name": "ATM VS MAD OPCION 1",
+			"name": "sin evento",
 			"info": "SOLO EVENTOS",
-			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/18/16635163150732.jpg",
-			"url": "acestream://9bbf074a042efeb863ddb438dea39c3a9980a39b"
-			},
-			{
-			"name": "ATM VS MAD OPCION 2",
-			"info": "SOLO EVENTOS",
-			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/18/16635163150732.jpg",
-			"url": "https://daddylive.watch/stream/stream-538.php"
-			},
-			{
-			"name": "ATM VS MAD OPCION 3",
-			"info": "SOLO EVENTOS",
-			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/18/16635163150732.jpg",
-			"url": "acestream://fa7191385335c55b0ba82ad708303ed5008f579d"
+			"image": "",
+			"url": "acestream://"
 			}
 		]
 	},
