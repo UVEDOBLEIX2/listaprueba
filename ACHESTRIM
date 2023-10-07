@@ -654,10 +654,10 @@
 	"stations":
 		[
 			{
-			"name": "sin evento",
-			"info": "SOLO EVENTOS",
+			"name": "LALIGA 4K",
+			"info": "MADRID VS OSASUNA",
 			"image": "",
-			"url": "acestream://"
+			"url": "acestream://8286183314d367940409b760bbf887f3fb923f60"
 			}
 		]
 	},
