@@ -18,19 +18,37 @@
 		[
 
 		{
-		"name": "**NUEVA** SUPER MARIO BROS",
+		"name": "THE EQUALIZER 1",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The%20Equalizerb.jpg",
+		"url": "acestream://05743eb361feb7072c94aee52c8d7817adff7028"
+		},
+		{
+		"name": "THE EQUALIZER 2",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The%20Equalizer%202b.jpg",
+		"url": "acestream://b1ba5188f0abdc79657f1aa2534b82236c242c8b"
+		},
+		{
+		"name": "**NUEVA** THE EQUALIZER 3",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The-Equalizer-3--2023---BluRay-1080p.jpg",
+		"url": "acestream://96e6f8a44e582fcdc74b6f6febfab3ceb50a83ec"
+		},
+		{
+		"name": "SUPER MARIO BROS",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/The-Super-Mario-Bros-Movie--2023---BluRay-1080p.jpg",
 		"url": "acestream://ae63320ed45dd9e6f8c4ca546f5e8af475b8b4b8"
 		},
 		{
-		"name": "**NUEVA** GRAN TURISMO",
+		"name": "GRAN TURISMO",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://pics.filmaffinity.com/Gran_Turismo-703890981-large.jpg",
 		"url": "acestream://27de40c799b4aaa883b5860258dd0a255b6bc96f"
 		},
 		{
-		"name": "**NUEVA** BLUE BEETLE",
+		"name": "BLUE BEETLE",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://m.media-amazon.com/images/M/MV5BMmY1ODUzZGItNDllOS00MDBhLTg4NmUtYjU4YjUxMGNlYmMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
 		"url": "acestream://7c60be8f6c8800ecfcb04f5321eecd1a12a6434b"
