@@ -10,6 +10,39 @@
 	[
 
 	{
+	"name": "MANDALORIAN",
+	"image": "https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+	"imageScale": "",
+	"info":"DISNEY+",
+	"stations":
+		[
+
+
+		{
+		"name": "TEMPORADA 1",
+		"info": "REPRODUCTOR MX",
+		"image": "",
+		"url": "acestream://6b7931ecaede790f53c1fb4aa9249952d6c44417"
+		},
+		{
+		"name": "TEMPORADA 2",
+		"info": "REPRODUCTOR MX",
+		"image": "",
+		"url": "acestream://"
+		},
+
+		{
+		"name": "TEMPORADA 3",
+		"info": "REPRODUCTOR MX",
+		"image": "",
+		"url": "acestream://"
+		},
+
+
+
+		]
+	},
+	{
 	"name": "Secuestro en el aire (2023)",
 	"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//series/hijack-763698932-mmed.jpg",
 	"imageScale": "",
@@ -67,7 +100,7 @@
 	"name": "FORMULA 1: DRIVE TO SURVIVE",
 	"image": "https://pbs.twimg.com/media/FonfgWRXoAAEIQN.jpg:large",
 	"imageScale": "",
-	"info":"APPLE TV",
+	"info":"NETFLIX",
 	"stations":
 		[
 
