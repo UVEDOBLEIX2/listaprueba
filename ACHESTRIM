@@ -503,10 +503,40 @@
 			"url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
 			},
 			{
-			"name": "MULTICAMARA",
-			"info":"OFFLINE",
-			"image": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/02/daznformula1color-1.png?resize=440%2C264&ssl=1",
-			"url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
+			"name": "DAZN F1 [4k]",
+			"info":"REPRODUCTOR MX",
+			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+			"url": "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041"
+			},
+			{
+			"name": "Multicamara",
+			"info":"en pruebas",
+			"image": "https://i.postimg.cc/t4bQRT25/f1tvlogo.png",
+			"url": "acestream://de204a1aa0908f17529ee7e20df516a5a16352f7"
+			},
+			{
+			"name": "F1TV Tracker",
+			"info":"en pruebas",
+			"image": "https://i.postimg.cc/t4bQRT25/f1tvlogo.png",
+			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566263&extension=ts&play_token=P8OKnbEubF"
+			},
+			{
+			"name": "F1TV Tiempos/Datos",
+			"info":"en pruebas",
+			"image": "https://i.postimg.cc/t4bQRT25/f1tvlogo.png",
+			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566264&extension=ts&play_token=BjTjzU0UNZ2"
+			},
+			{
+			"name": "ONBOARD ALONSO",
+			"info":"en pruebas",
+			"image": "https://i.postimg.cc/TYMjtmQ5/alonso.png",
+			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fc:bb:92&stream=1566261&extension=ts&play_token=O7UCJrTP35"
+			},
+			{
+			"name": "DAZN F1 [IPTV]",
+			"info": "SIN ACESTREAM",
+			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+			"url": "http://37.49.230.42:8080/stadnik/6a627b52a9/1672"
 			}
 		]
 	},
