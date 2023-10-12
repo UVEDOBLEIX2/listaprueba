@@ -10,32 +10,32 @@
 	[
 
 	{
-	"name": "MANDALORIAN",
-	"image": "https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+	"name": "The Continental: Del universo de John Wick",
+	"image": "https://pics.filmaffinity.com/the_continental_from_the_world_of_john_wick-747506643-mmed.jpg",
 	"imageScale": "",
-	"info":"DISNEY+",
+	"info":"PRIME VIDEO",
 	"stations":
 		[
 
 
 		{
-		"name": "TEMPORADA 1",
-		"info": "REPRODUCTOR MX",
+		"name": "Capitulo 1",
+		"info": "",
 		"image": "",
-		"url": "acestream://6b7931ecaede790f53c1fb4aa9249952d6c44417"
+		"url": "acestream://d1931a8695da1b97d922ba0c3bf264b08c07afd7"
 		},
 		{
-		"name": "TEMPORADA 2",
-		"info": "REPRODUCTOR MX",
+		"name": "Capitulo 2",
+		"info": "",
 		"image": "",
-		"url": "acestream://"
+		"url": "acestream://26347a1e5e172e9920db02fe306f65fadca29a01"
 		},
 
 		{
-		"name": "TEMPORADA 3",
-		"info": "REPRODUCTOR MX",
+		"name": "Capitulo 3",
+		"info": "",
 		"image": "",
-		"url": "acestream://"
+		"url": "acestream://aa19dc193ddb1c9b59db139de4c77337f2b364bd"
 		},
 
 
