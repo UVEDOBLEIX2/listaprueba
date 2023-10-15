@@ -717,10 +717,10 @@
 	"stations":
 		[
 			{
-			"name": "LALIGA 4K",
-			"info": "MADRID VS OSASUNA",
+			"name": "PROGRAMACION DEPORTIVA",
+			"info": "",
 			"image": "",
-			"url": "acestream://8286183314d367940409b760bbf887f3fb923f60"
+			"url": "https://www.futbolenlatv.es/"
 			}
 		]
 	},
