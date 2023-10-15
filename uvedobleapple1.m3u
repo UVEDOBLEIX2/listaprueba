@@ -1,4 +1,8 @@
 #EXTM3U 
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Atreseries" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e3240330cb88d6a9880ac11d9d09ec8c.png" group-title="ATRESERIES",ES: Atreseries
+http://37.49.225.145:8080/Miglior/rk8mEWJQMwyDZ9bYU35uPt/9102
+
 #EXTINF:-1 tvg-id="" tvg-name="FEF TV 1" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV OPCION 1",FEF TV 1
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/222154
 #EXTINF:-1 tvg-id="" tvg-name="FEF TV 2" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV OPCION 1",FEF TV 2
@@ -72,6 +76,8 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/427
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/428
 #EXTINF:-1 tvg-id="" tvg-name="FEF TV 20" tvg-logo="https://media.cdnandroid.com/item_images/1328237/imagen-instat-tv-0ori.jpg" group-title="FEF TV OPCION 2",FEF TV 20
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/429
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="03 - LA LIGA 4K ( PRUEBAS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png" group-title="││⛹️ LaLiga EA Sports⛹️││",03 - LA LIGA 4K ( PRUEBAS)
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/222422
