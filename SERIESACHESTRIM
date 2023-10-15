@@ -137,7 +137,16 @@
 		}
 
 		]
-	}
+	},
+        {
+         "name": "EXTRA SERIES",
+         "image": "",
+         "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/pelisachestim2",
+         "info":"",
+         "import": false
+        }
+
+
 
 	]
 }
