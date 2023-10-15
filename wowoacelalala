@@ -35,6 +35,8 @@ acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top", M. LaLiga 6 1080
 acestream://c896d37778f9e43549a788fc22206a655895b51b
 
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: Atreseries" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e3240330cb88d6a9880ac11d9d09ec8c.png" group-title="ATRESERIES",ES: Atreseries
+http://37.49.225.145:8080/Miglior/rk8mEWJQMwyDZ9bYU35uPt/9102
 
 #EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="www.elcano.top", DAZN LaLiga 1080 multiaudio
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
