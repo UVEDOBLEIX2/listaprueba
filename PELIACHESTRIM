@@ -7,10 +7,10 @@
     "info": "PELICULAS",
     "groups": 
 
-	[
+	
 
 
-
+		[
 		{
 		"name": "**NUEVA** Misión imposible: sentencia mortal - Parte 1",
 		"info": "ESPAÑOL 1080P",
@@ -186,13 +186,13 @@
 		"url": "acestream://9d1c49409ab68f4a6766541120385890865510c7"
 		}
 
-		
+		]
 
 
 		
 	
 
-	]
+}
 
 
 }
