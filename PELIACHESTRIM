@@ -6,11 +6,19 @@
     "telegram": "",
     "info": "PELICULAS",
     "groups": 
+        
+        [
 
-	
+	{
+	"name": "PELICULAS",
+	"image": "",
+	"imageScale": "",
+	"info":"",
+	"stations":
 
 
 		[
+
 		{
 		"name": "**NUEVA** Misión imposible: sentencia mortal - Parte 1",
 		"info": "ESPAÑOL 1080P",
@@ -187,12 +195,12 @@
 		}
 
 		]
-
-
+	}
+	]
 		
 	
 
-}
+
 
 
 }
