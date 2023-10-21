@@ -1,6 +1,6 @@
 {
     "name": "ACESTREAM ID",
-    "author": "ACTUALIZADO 16 OCTUBRE2023",
+    "author": "ACTUALIZADO 21 OCTUBRE 2023",
     "url": "http://wiwihd.jimdo.com/",
     "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
     "telegram": "",
@@ -499,17 +499,37 @@
 			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fc:bb:92&stream=1566261&extension=ts&play_token=O7UCJrTP35"
 			},
 			{
-			"name": "DAZN F1 [IPTV]",
-			"info": "SIN ACESTREAM",
-			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-			"url": "https://familiatv-12.mrriskplot2.repl.co/en-vivo/daznf1/index.htm"
+			"name": "ONBOARD VERSTAPPEN",
+			"info":"Solo en carrera",
+			"image": "https://i.postimg.cc/zB4wZRrM/max.png",
+			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566244&extension=ts&play_token=bJCs6smbnR"
 			},
 			{
-			"name": "DAZN F1 [IPTV]",
-			"info": "SIN ACESTREAM",
-			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-			"url": "http://37.49.230.42:8080/stadnik/6a627b52a9/1672"
+			"name": "ONBOARD CHECO",
+			"info":"Solo en carrera",
+			"image": "https://i.postimg.cc/NGr78b8w/checo.png",
+			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566250&extension=ts&play_token=TQHHc57AN5"
+			},
+			{
+			"name": "ONBOARD SAINZ",
+			"info":"Solo en carrera",
+			"image": "https://i.postimg.cc/nLRY2Pwn/sainz.png",
+			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566247&extension=ts&play_token=P5N1amc418"
+			},
+			{
+			"name": "ONBOARD HAMILTON",
+			"info":"Solo en carrera",
+			"image": "https://i.postimg.cc/Xv7kwbL2/ham.png",
+			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566258&extension=ts&play_token=eyPnw4UPgC"
+			},
+			{
+			"name": "ONBOARD LECLERC",
+			"info":"Solo en carrera",
+			"image": "https://i.postimg.cc/Hn5wpsWL/leclerc.png",
+			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566255&extension=ts&play_token=W6DHzHM6AF"
 			}
+
+
 		]
 	},
 
