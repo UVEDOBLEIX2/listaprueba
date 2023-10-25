@@ -772,6 +772,16 @@
 			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
 			"url": "acestream://"
 			},
+		{
+        "name": "Sevilla vs Real Madrid",
+        "info": "[HD]",
+		"online": "true",
+        "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/21/15690893896582.jpg",
+		"url": "https://wiwihd.jimdofree.com/tv",
+		"isHost":"",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "online":"true"
+		}
 		]
 	},
 
