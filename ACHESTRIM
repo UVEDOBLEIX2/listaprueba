@@ -737,17 +737,41 @@
 	"stations":
 		[
 			{
-			"name": "LALIGA",
-			"info": "FINDE 20-21-22 OCTUBRE",
-			"image": "",
-			"url": "https://voodc.com/embed/85899a8ea1868b95879983849a8898858c97.html"
+			"name": "BARCELONA VS REAL MADRID",
+			"info": "OPCION 1 (ACESTREAM)",
+			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
+			"url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"
 			},
 			{
-			"name": "F1",
-			"info": "FINDE 20-21-22 OCTUBRE",
-			"image": "",
-			"url": "http://www.worldsp.me/201023/ch-6.html"
-			}
+			"name": "BARCELONA VS REAL MADRID",
+			"info": "OPCION 2 (ACESTREAM)",
+			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
+			"url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"
+			},
+			{
+			"name": "BARCELONA VS REAL MADRID",
+			"info": "OPCION 3 (ACESTREAM)",
+			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
+			"url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"
+			},
+			{
+			"name": "BARCELONA VS REAL MADRID",
+			"info": "OPCION 4 (IPTV)",
+			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
+			"url": "https://wiwihd.jimdofree.com/tv"
+			},
+			{
+			"name": "BARCELONA VS REAL MADRID",
+			"info": "OPCION 5 (IPTV)",
+			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
+			"url": "https://wiwihd.jimdofree.com/tv"
+			},
+			{
+			"name": "BARCELONA VS REAL MADRID",
+			"info": "OPCION 6 (ACESTREAM)",
+			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
+			"url": "acestream://"
+			},
 		]
 	},
 
