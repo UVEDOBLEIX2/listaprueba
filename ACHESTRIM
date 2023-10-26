@@ -807,21 +807,18 @@
 	"stations":
 		[
  
-	    {
-			"name": "UVEDOBLE TV",
-		   "image": "https://i.ibb.co/8MFrqt3/Twitter-logo.webp",    
+	  	  {
+			"name": "UVEDOBLE TV opcion 1",
+		   "image": "https://imgur.com/8Pj2DMr",    
 		  "url" : "https://wiwihd.jimdofree.com/tv/",
-		  "embed": "true"},
-		  {
-			"name": "Grupo Soporte",
-		   "image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
-		  "url" : "https://discord.gg/phVVJFSR4t",
-		  "embed": "true"}, 
-		  {
-			"name": "@futboladictohd",
-		   "image": "https://i.ibb.co/xYLFH0F/Insta-logo.png",    
-		  "url" : "https://instagram.com/futboladictohd",
-		  "embed": "true"}
+		  "embed": "true"
+		  },
+	  	  {
+			"name": "UVEDOBLE TV opcion 2",
+		   "image": "https://imgur.com/8Pj2DMr",    
+		  "url" : "https://wiwihd.jimdofree.com/tv/",
+		  "embed": "true"
+		  },
  
 		]
 	},
