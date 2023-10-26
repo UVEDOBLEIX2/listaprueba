@@ -800,6 +800,33 @@
 	},
 
 	{
+	"name": "pruebatv",
+	"image": "",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+ 
+	    {
+			"name": "@FutbolAdictosHD",
+		   "image": "https://i.ibb.co/8MFrqt3/Twitter-logo.webp",    
+		  "url" : "https://twitter.com/futboladictoshd",
+		  "embed": "true"},
+		  {
+			"name": "Grupo Soporte",
+		   "image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+		  "url" : "https://discord.gg/phVVJFSR4t",
+		  "embed": "true"}, 
+		  {
+			"name": "@futboladictohd",
+		   "image": "https://i.ibb.co/xYLFH0F/Insta-logo.png",    
+		  "url" : "https://instagram.com/futboladictohd",
+		  "embed": "true"}
+ 
+		]
+	},
+
+	{
 	"name": "CANALES ESPAÑA",
 	"image": "https://play-lh.googleusercontent.com/C1WLUZuhSwr7BWXtrzsLOlivF5iYGtXqNtqdxLpuG8K4QIzR-10z6Km0Zoete9VmCsU",
 	"imageScale": "",
