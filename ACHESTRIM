@@ -1,6 +1,6 @@
 {
-    "name": "ACESTREAM ID",
-    "author": "ACTUALIZADO 28 OCTUBRE 2023",
+    "name": "IDs",
+    "author": "ACTUALIZADO 29 OCTUBRE 2023",
     "url": "http://wiwihd.jimdo.com/",
     "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
     "telegram": "",
@@ -19,19 +19,19 @@
 			{
 			"name": "DAZN LIGA IPTV",
 			"info": "",
-			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
+			"image": "",
 			"url": "http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/119552"
 			},
 			{
 			"name": "DAZN LIGA IPTV",
 			"info": "",
-			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
+			"image": "",
 			"url": "http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/119552"
 			},
 			{
 			"name": "CANAL SOLO EVENTOS",
 			"info": "",
-			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
+			"image": "",
 			"url": "acestream://a9ff38cd45e9d2e482dca5072d882f8944221105"
 			}
 		]
