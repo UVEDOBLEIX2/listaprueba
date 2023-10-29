@@ -11,57 +11,28 @@
 
 
 	{
-	"name": "EVENTOS (BARCELONA VS MADRID)",
-	"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
+	"name": "EVENTOS",
+	"image": "https://img.freepik.com/vector-premium/proximos-eventos-bocadillo-dialogo-proximos-eventos-texto-ilustracion-3d-estilo-arte-pop-icono-linea-vectorial-negocios_661108-7239.jpg",
 	"stations":
 		[
+
 			{
-			"name": "BARCELONA VS REAL MADRID",
-			"info": "RECOMENDADA (ACESTREAM)",
-			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
-			"url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
-			},
-			{
-			"name": "BARCELONA VS REAL MADRID",
-			"info": "OPCION 1 (ACESTREAM)",
-			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
-			"url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"
-			},
-			{
-			"name": "BARCELONA VS REAL MADRID",
-			"info": "OPCION 2 (ACESTREAM)",
-			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
-			"url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"
-			},
-			{
-			"name": "BARCELONA VS REAL MADRID",
-			"info": "OPCION 3 (ACESTREAM)",
-			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
-			"url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"
-			},
-			{
-			"name": "BARCELONA VS REAL MADRID",
-			"info": "OPCION 4 (IPTV)",
+			"name": "DAZN LIGA IPTV",
+			"info": "",
 			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
 			"url": "http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/119552"
 			},
 			{
-			"name": "BARCELONA VS REAL MADRID",
-			"info": "OPCION 5 (IPTV)",
+			"name": "DAZN LIGA IPTV",
+			"info": "",
 			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
 			"url": "http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/119552"
 			},
 			{
-			"name": "BARCELONA VS REAL MADRID",
-			"info": "OPCION 6 (ACESTREAM)",
+			"name": "CANAL SOLO EVENTOS",
+			"info": "",
 			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
 			"url": "acestream://a9ff38cd45e9d2e482dca5072d882f8944221105"
-			},
-			{
-			"name": "BARCELONA VS REAL MADRID",
-			"info": "OPCION 7 (inactiva)",
-			"image": "https://d500.epimg.net/cincodias/imagenes/2016/12/03/lifestyle/1480757029_427199_1480757065_noticia_normal.jpg",
-			"url": "acestream://"
 			}
 		]
 	},
