@@ -10,6 +10,40 @@
 	[
 
 	{
+	"name": "30 MONEDAS",
+	"image": "https://pics.filmaffinity.com/30_monedas_Serie_de_TV-184810448-large.jpg",
+	"imageScale": "",
+	"info":"HBO MAX",
+	"stations":
+		[
+
+
+		{
+		"name": "Capitulo 1",
+		"info": "TEMPORADA 1",
+		"image": "",
+		"url": "acestream://913edbb5907f5c28137c8cdff0dda54ae1b22b92"
+		},
+		{
+		"name": "Capitulo 2",
+		"info": "TEMPORADA 1",
+		"image": "",
+		"url": "acestream://9a2f098262147ba6c955bb3c6682f0fc8524f4de"
+		},
+
+		{
+		"name": "Capitulo 3",
+		"info": "",
+		"image": "TEMPORADA 1",
+		"url": "acestream://a0e02a37b3001cb12bd01401f4fc8efcf0a61847"
+		},
+
+
+
+		]
+	},
+
+	{
 	"name": "The Continental: Del universo de John Wick",
 	"image": "https://pics.filmaffinity.com/the_continental_from_the_world_of_john_wick-747506643-mmed.jpg",
 	"imageScale": "",
