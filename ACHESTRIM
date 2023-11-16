@@ -768,25 +768,6 @@
 		]
 	},
 
-
-	{
-	"name": "pruebaS",
-	"image": "",
-	"imageScale": "",
-	"info":"",
-	"stations":
-		[
-
- 			{
-			"name": "UVEDOBLE TV",
-			"info": "PRUEBAS",
-			"image": "https://static.vecteezy.com/system/resources/previews/004/891/075/non_2x/the-initials-w-logo-is-simple-and-modern8868-free-vector.jpg",
-			"url": "acestream://f4ea86ed680577b861b30147c845ee13d4a19e49"
-			}
- 
-		]
-	},
-
 	{
 	"name": "CANALES ESPAÑA",
 	"image": "https://play-lh.googleusercontent.com/C1WLUZuhSwr7BWXtrzsLOlivF5iYGtXqNtqdxLpuG8K4QIzR-10z6Km0Zoete9VmCsU",
