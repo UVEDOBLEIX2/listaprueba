@@ -729,7 +729,7 @@
 	},
 
 	{
-	"name": "VAMOS, ELLAS Y M+",
+	"name": "EXTRA MOVISTAR+",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
 	"imageScale": "",
 	"info": "",
@@ -754,9 +754,15 @@
 			"url": "acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830"
 			},
 			{
+			"name": LA RESISTENCIA 24H [1080]",
+			"info": "NUEVO",
+			"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=ad3bd4&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlresist.png",
+			"url": "http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/618"
+			},
+			{
 			"name": "M+ [1080]",
 			"info": "75c0",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/1200px-Movistar_Plus%2B_2022_logo.svg.png",
+			"image": "https://static.wikia.nocookie.net/logopedia/images/b/be/Movistar_.svg/revision/latest/scale-to-width-down/1200?cb=20201030223306&path-prefix=es",
 			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
 			}
 		]
