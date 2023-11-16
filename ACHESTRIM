@@ -10,32 +10,6 @@
 	[
 
 
-	{
-	"name": "EVENTOS",
-	"image": "https://img.freepik.com/vector-premium/proximos-eventos-bocadillo-dialogo-proximos-eventos-texto-ilustracion-3d-estilo-arte-pop-icono-linea-vectorial-negocios_661108-7239.jpg",
-	"stations":
-		[
-
-			{
-			"name": "DAZN F1",
-			"info": "",
-			"image": "",
-			"url": "http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/297"
-			},
-			{
-			"name": "DAZN LIGA IPTV",
-			"info": "",
-			"image": "",
-			"url": "http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/119552"
-			},
-			{
-			"name": "CANAL SOLO EVENTOS",
-			"info": "",
-			"image": "",
-			"url": "acestream://a9ff38cd45e9d2e482dca5072d882f8944221105"
-			}
-		]
-	},
 
 	{
 	"name": "LA LIGA EA SPORT",
@@ -729,7 +703,7 @@
 	},
 
 	{
-	"name": "EXTRA MOVISTAR+",
+	"name": "EXTRA MOVISTAR",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
 	"imageScale": "",
 	"info": "",
