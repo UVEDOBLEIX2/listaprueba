@@ -1,6 +1,6 @@
 {
     "name": "IDs",
-    "author": "ACTUALIZADO 14 NOVIEMBRE 2023",
+    "author": "ACTUALIZADO 16 NOVIEMBRE 2023",
     "url": "http://wiwihd.jimdo.com/",
     "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
     "telegram": "",
@@ -10,6 +10,32 @@
 	[
 
 
+	{
+	"name": "EVENTOS",
+	"image": "https://img.freepik.com/vector-premium/proximos-eventos-bocadillo-dialogo-proximos-eventos-texto-ilustracion-3d-estilo-arte-pop-icono-linea-vectorial-negocios_661108-7239.jpg",
+	"stations":
+		[
+
+			{
+			"name": "DAZN LIGA IPTV",
+			"info": "",
+			"image": "",
+			"url": "http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/119552"
+			},
+			{
+			"name": "DAZN LIGA IPTV",
+			"info": "",
+			"image": "",
+			"url": "http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/119552"
+			},
+			{
+			"name": "CANAL SOLO EVENTOS",
+			"info": "",
+			"image": "",
+			"url": "acestream://a9ff38cd45e9d2e482dca5072d882f8944221105"
+			}
+		]
+	},
 
 	{
 	"name": "LA LIGA EA SPORT",
@@ -474,12 +500,6 @@
 			"url": "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041"
 			},
 			{
-			"name": "DAZN F1 [4K]",
-			"info":"OPCION 5",
-			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-			"url": "http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/303"
-			},
-			{
 			"name": "Multicamara",
 			"info":"Solo en carrera",
 			"image": "https://i.postimg.cc/t4bQRT25/f1tvlogo.png",
@@ -703,7 +723,7 @@
 	},
 
 	{
-	"name": "EXTRA MOVISTAR",
+	"name": "VAMOS, ELLAS Y M+",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
 	"imageScale": "",
 	"info": "",
@@ -728,17 +748,36 @@
 			"url": "acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830"
 			},
 			{
-			"name": LA RESISTENCIA 24H [1080]",
-			"info": "NUEVO",
-			"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=ad3bd4&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlresist.png",
-			"url": "http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/618"
-			},
-			{
 			"name": "M+ [1080]",
 			"info": "75c0",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/b/be/Movistar_.svg/revision/latest/scale-to-width-down/1200?cb=20201030223306&path-prefix=es",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/1200px-Movistar_Plus%2B_2022_logo.svg.png",
 			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
 			}
+		]
+	},
+
+
+	{
+	"name": "pruebaS",
+	"image": "",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+ 
+	  	  {
+			"name": "UVEDOBLE TV opcion 1",
+		   "image": "https://imgur.com/8Pj2DMr",    
+		  "url" : "https://be19-185-13-202-230.ngrok-free.app",
+		  "embed": "true"
+		  },
+	  	  {
+			"name": "UVEDOBLE TV opcion 2",
+		   "image": "https://imgur.com/8Pj2DMr",    
+		  "url" : "https://vdo.ninja/?view=GuTb2Va",
+		  "embed": "true"
+		  },
+ 
 		]
 	},
 
@@ -849,4 +888,5 @@
 	}
 
 	]
+}
 }
