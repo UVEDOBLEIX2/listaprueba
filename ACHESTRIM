@@ -776,18 +776,13 @@
 	"info":"",
 	"stations":
 		[
- 
-	  	  {
-			"name": "UVEDOBLE TV opcion 1",
-		   "image": "https://imgur.com/8Pj2DMr",    
-		  "url" : "acestream://f4ea86ed680577b861b30147c845ee13d4a19e49"
-		  },
-	  	  {
-			"name": "UVEDOBLE TV opcion 2",
-		   "image": "https://imgur.com/8Pj2DMr",    
-		  "url" : "https://vdo.ninja/?view=GuTb2Va",
-		  "embed": "true"
-		  },
+
+ 			{
+			"name": "UVEDOBLE TV",
+			"info": "PRUEBAS",
+			"image": "https://static.vecteezy.com/system/resources/previews/004/891/075/non_2x/the-initials-w-logo-is-simple-and-modern8868-free-vector.jpg",
+			"url": "acestream://f4ea86ed680577b861b30147c845ee13d4a19e49"
+			}
  
 		]
 	},
