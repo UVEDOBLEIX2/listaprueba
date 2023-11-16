@@ -774,8 +774,7 @@
 	  	  {
 			"name": "UVEDOBLE TV opcion 1",
 		   "image": "https://imgur.com/8Pj2DMr",    
-		  "url" : "https://be19-185-13-202-230.ngrok-free.app",
-		  "embed": "true"
+		  "url" : "acestream://f4ea86ed680577b861b30147c845ee13d4a19e49",
 		  },
 	  	  {
 			"name": "UVEDOBLE TV opcion 2",
