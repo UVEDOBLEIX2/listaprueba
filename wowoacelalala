@@ -43,3 +43,21 @@ http://pinkpanther.uk:8080/Sera25/Puebla25/58741
 
 #EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES| LA LIGA TV BAR" tvg-logo="https://i.postimg.cc/YCrJNtsj/Dise-o-sin-t-tulo-32.png" group-title="LA LIGA EA SPORT▶️",ES| LA LIGA TV BAR
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/1278
+
+#EXTINF:-1 tvg-id="" tvg-name="H.LaLiga ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/YCrJNtsj/Dise-o-sin-t-tulo-32.png" group-title="LA LIGA EA SPORT▶️",H.LaLiga ᶠᴴᴰ
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/350
+
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/bJKYsgSq/Dise-o-sin-t-tulo-1.png" group-title="ESPAÑA TDT ▶️",LA 1 ᶠᴴᴰ
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/737
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="H.Dazn1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/B6VC6CXQ/Dise-o-sin-t-tulo-27.png" group-title="DAZN ESPAÑA▶️",H.Dazn1 ᶠᴴᴰ
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/305
+
+#EXTINF:-1 tvg-id="" tvg-name="O.Dazn laLiga UHD" tvg-logo="https://i.postimg.cc/SKZ6TGL7/Dise-o-sin-t-tulo-24.png" group-title="DAZN ESPAÑA▶️",O.Dazn laLiga UHD
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/331
+
+#EXTINF:-1 tvg-id="" tvg-name="H.Liga Campeones ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/SxvMKnhh/Dise-o-sin-t-tulo-29.png" group-title="LIGA CAMPEONES▶️",H.Liga Campeones ᶠᴴᴰ
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/482
+
+#EXTINF:-1 tvg-id="" tvg-name="H.Liga Campeones (Refuerzo)" tvg-logo="https://i.postimg.cc/SxvMKnhh/Dise-o-sin-t-tulo-29.png" group-title="LIGA CAMPEONES▶️",H.Liga Campeones (Refuerzo)
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/491
