@@ -768,13 +768,13 @@
 	  	  {
 			"name": "UVEDOBLE TV opcion 1",
 		   "image": "https://imgur.com/8Pj2DMr",    
-		  "url" : "https://be19-185-13-202-230.ngrok-free.app",
+		  "url" : "https://vdo.ninja/?view=uvedoble&videobitrate=10000&scale=100",
 		  "embed": "true"
 		  },
 	  	  {
-			"name": "UVEDOBLE TV opcion 2",
+			"name": "5656",
 		   "image": "https://imgur.com/8Pj2DMr",    
-		  "url" : "https://vdo.ninja/?view=GuTb2Va",
+		  "url" : "",
 		  "embed": "true"
 		  },
  
