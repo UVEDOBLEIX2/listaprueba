@@ -14,32 +14,36 @@ acestream://5789ca155323664edd293b848606688edf803f4d
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 1" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 1
-http://pinkpanther.uk:8080/Sera25/Puebla25/58729
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 2" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 3
-http://pinkpanther.uk:8080/Sera25/Puebla25/58730
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 3" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 4
-http://pinkpanther.uk:8080/Sera25/Puebla25/58731
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 4" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 5
-http://pinkpanther.uk:8080/Sera25/Puebla25/58732
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 5" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 6
-http://pinkpanther.uk:8080/Sera25/Puebla25/58733
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 6" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 7
-http://pinkpanther.uk:8080/Sera25/Puebla25/58734
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 7" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 8
-http://pinkpanther.uk:8080/Sera25/Puebla25/58735
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 8" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 9
-http://pinkpanther.uk:8080/Sera25/Puebla25/58736
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 9" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 10
-http://pinkpanther.uk:8080/Sera25/Puebla25/58737
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 10" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 11
-http://pinkpanther.uk:8080/Sera25/Puebla25/58738
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 11" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 12
-http://pinkpanther.uk:8080/Sera25/Puebla25/58739
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 12" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 13
-http://pinkpanther.uk:8080/Sera25/Puebla25/58740
-#EXTINF:-1 tvg-id="" tvg-name="FEF TV 13" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="FEF TV opcion3",FEF TV 14
-http://pinkpanther.uk:8080/Sera25/Puebla25/58741
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 1" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="PRIMERA FEDERACION",FEF TV 1
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453113
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 2" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="PRIMERA FEDERACION",FEF TV 2
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453114
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 3" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="PRIMERA FEDERACION",FEF TV 3
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453115
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 4" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="PRIMERA FEDERACION",FEF TV 4
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453116
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 5" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="PRIMERA FEDERACION",FEF TV 5
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453117
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 6" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="PRIMERA FEDERACION",FEF TV 6
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453118
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 7" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="PRIMERA FEDERACION",FEF TV 7
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453119
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 8" tvg-logo="https://i.postimg.cc/dtxCLYYq/feftv.png" group-title="PRIMERA FEDERACION",FEF TV 8
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453120
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 9" tvg-logo="https://i.postimg.cc/28wQMGJz/FEF-TV.png" group-title="PRIMERA FEDERACION",FEF TV 9
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453262
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 10" tvg-logo="https://i.postimg.cc/28wQMGJz/FEF-TV.png" group-title="PRIMERA FEDERACION",FEF TV 10
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453264
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 11" tvg-logo="https://i.postimg.cc/28wQMGJz/FEF-TV.png" group-title="PRIMERA FEDERACION",FEF TV 11
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453265
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 12" tvg-logo="https://i.postimg.cc/28wQMGJz/FEF-TV.png" group-title="PRIMERA FEDERACION",FEF TV 12
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453269
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 13" tvg-logo="https://i.postimg.cc/28wQMGJz/FEF-TV.png" group-title="PRIMERA FEDERACION",FEF TV 13
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453270
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 14" tvg-logo="https://i.postimg.cc/28wQMGJz/FEF-TV.png" group-title="PRIMERA FEDERACION",FEF TV 14
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453271
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 15" tvg-logo="https://i.postimg.cc/28wQMGJz/FEF-TV.png" group-title="PRIMERA FEDERACION",FEF TV 15
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/453273
 
 #EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES| LA LIGA TV BAR" tvg-logo="https://i.postimg.cc/YCrJNtsj/Dise-o-sin-t-tulo-32.png" group-title="LA LIGA EA SPORT▶️",ES| LA LIGA TV BAR
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/1278
