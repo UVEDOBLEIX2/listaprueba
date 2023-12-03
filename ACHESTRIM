@@ -24,6 +24,12 @@
 		  "embed": "true"
 		  },
 	  	  {
+			"name": "RESULTADOS EN DIRECTO",
+		   "image": "https://play-lh.googleusercontent.com/S6R6fHDm-nNZ5rO1MCQR4DnS2E0sus2PBlKkvbC3-1bgS0Vu29qNpHV__QhcMZ1Vlw",    
+		  "url" : "https://www.flashscore.es/",
+		  "embed": "true"
+		  },
+	  	  {
 			"name": "PROGRAMACION DEPORTIVA COMPLETA",
 		   "image": "https://pbs.twimg.com/profile_images/1401824183357784066/G0EFpuas_400x400.jpg",    
 		  "url" : "https://www.futbolenlatv.es/deporte",
