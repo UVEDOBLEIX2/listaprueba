@@ -16,7 +16,7 @@
 {
 "name": "CANALES DEPORTIVOS (SIN ACESTREAM)",
 "image": "https://i.imgur.com/bPm3V5N.png",
-"url": "https://pastebin.com/raw/RGCUf3PL",
+"url": "https://aficionados.vercel.app/09.Menu.ZoNa.DepOrTiVa.w3u",
 "info":"",
 "import": false
 },
@@ -30,19 +30,19 @@
 {
 "name": "DEPORTES DIFERIDO",
 "image": "https://i.imgur.com/incWnN8.png",
-"url": "https://pastebin.com/kK7d61q8",
+"url": "https://aficionados.vercel.app/03.Menu.DepOrtEs.dIFerIDos.w3u",
 "import": false
 },
 {
 "name": "DOCUMENTALES DEPORTIVOS",
 "image": "https://i.imgur.com/ESzkT4N.png",
-"url": "https://pastebin.com/RrMbTjiC",
+"url": "https://aficionados.vercel.app/04.Menu.DoCU.DepOrtIvoS.w3u",
 "import": false
 },
 {
 "name": "EVENTOS DEL DIA",
 "image": "https://thumbs.dreamstime.com/b/muestra-de-live-stream-emblema-logotipo-92479158.jpg",
-"url": "https://pastebin.com/WbvfjAxv",
+"url": "https://aficionados.vercel.app/10.EVEntOs.dEl.DiA.w3u",
 "import": false
 },
 ]
