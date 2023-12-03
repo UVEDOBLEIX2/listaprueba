@@ -1,6 +1,6 @@
 {
     "name": "IDs",
-    "author": "ACTUALIZADO 16 NOVIEMBRE 2023",
+    "author": "ACTUALIZADO 3 DICIEMBRE 2023",
     "url": "http://wiwihd.jimdo.com/",
     "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
     "telegram": "",
@@ -9,31 +9,38 @@
 
 	[
 
-
 	{
-	"name": "EVENTOS",
-	"image": "https://img.freepik.com/vector-premium/proximos-eventos-bocadillo-dialogo-proximos-eventos-texto-ilustracion-3d-estilo-arte-pop-icono-linea-vectorial-negocios_661108-7239.jpg",
+	"name": "WEBS",
+	"image": "https://d500.epimg.net/cincodias/imagenes/2015/11/20/lifestyle/1448037563_041957_1448037621_noticia_normal.jpg",
+	"imageScale": "",
+	"info":"SOLO EN MOVILES",
 	"stations":
 		[
-
-			{
-			"name": "DAZN LIGA IPTV",
-			"info": "",
-			"image": "",
-			"url": "http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/119552"
-			},
-			{
-			"name": "DAZN LIGA IPTV",
-			"info": "",
-			"image": "",
-			"url": "http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/119552"
-			},
-			{
-			"name": "FEF TV (SOLO EVENTOS)",
-			"info": "",
-			"image": "",
-			"url": "https://t.co/FNle20q5cQ"
-			}
+ 
+	  	  {
+			"name": "PROGRAMACION FUTBOL",
+		   "image": "https://pbs.twimg.com/profile_images/1401824183357784066/G0EFpuas_400x400.jpg",    
+		  "url" : "https://www.futbolenlatv.es/",
+		  "embed": "true"
+		  },
+	  	  {
+			"name": "PROGRAMACION DEPORTIVA COMPLETA",
+		   "image": "https://pbs.twimg.com/profile_images/1401824183357784066/G0EFpuas_400x400.jpg",    
+		  "url" : "https://www.futbolenlatv.es/deporte",
+		  "embed": "true"
+		  },
+	  	  {
+			"name": "WEB OFICIAL",
+		   "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",    
+		  "url" : "wiwihd.jimdo.com",
+		  "embed": "true"
+		  },
+ 	  	  {
+			"name": "ELCANO PROXY",
+		   "image": "",    
+		  "url" : "https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av",
+		  "embed": "true"
+		  }
 		]
 	},
 
@@ -279,7 +286,7 @@
 			"name": "M. Liga de Campeones 5",
 			"info": "010d",
 			"image": "https://i.postimg.cc/mrqY3JD3/Liga-de-Campeones-5-por-Movistar-Plus-2022-logo.png",
-			"url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"
+			"url": "acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561"
 			},
 			{
 			"name": "M. Liga de Campeones 6 SD",
@@ -758,26 +765,48 @@
 
 
 	{
-	"name": "pruebaS",
-	"image": "",
+	"name": "UVEDOBLE TV",
+	"image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
 	"imageScale": "",
 	"info":"",
 	"stations":
 		[
  
+
 	  	  {
-			"name": "UVEDOBLE TV opcion 1",
-		   "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",    
-		  "url" : "https://wiwihd.jimdofree.com/tv/",
-		  "embed": "true"
-		  },
-	  	  {
-			"name": "UVEDOBLE TV opcion 2",
+			"name": "UVEDOBLE TV 1080P",
 		   "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",    
 		  "url" : "https://vdo.ninja/?v=uvedobletv1&vb=10000&scale=100",
 		  "embed": "true"
-		  },
+		  }
  
+		]
+	},
+
+	{
+	"name": "EVENTOS",
+	"image": "https://img.freepik.com/vector-premium/proximos-eventos-bocadillo-dialogo-proximos-eventos-texto-ilustracion-3d-estilo-arte-pop-icono-linea-vectorial-negocios_661108-7239.jpg",
+	"stations":
+		[
+
+			{
+			"name": "DAZN LIGA IPTV",
+			"info": "",
+			"image": "",
+			"url": "http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/119552"
+			},
+			{
+			"name": "DAZN LIGA IPTV",
+			"info": "",
+			"image": "",
+			"url": "http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/119552"
+			},
+			{
+			"name": "FEF TV (SOLO EVENTOS)",
+			"info": "",
+			"image": "",
+			"url": "https://t.co/FNle20q5cQ"
+			}
 		]
 	},
 
