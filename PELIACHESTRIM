@@ -20,22 +20,33 @@
 		[
 
 		{
-		"name": "**NUEVA** THE CREATOR",
+		"name": "**NUEVA** LOS ASESINOS DE LA LUNA",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/43707-238454-20231018071357.jpg",
+		"url": "acestream://8b1df56b8d66300de36c4ce86be87ebc7ea8bfa8"
+		},
+		"name": "**NUEVA** LOS ASESINOS DE LA LUNA",
+		"info": "ESPAÑOL 720P",
+		"image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/43707-238454-20231018071357.jpg",
+		"url": "acestream://3559850ee56e319e6624065d3b9fe866720c6bf7"
+		},
+		{
+		"name": "SIETE HERMANAS",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/siete-hermanas--bluray-microhd.jpg",
+		"url": "acestream://04cbb695e1b4cb364ec6f687411eb3d35d996a13"
+		},
+		{
+		"name": "THE CREATOR",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://pics.filmaffinity.com/the_creator-470808400-mmed.jpg",
 		"url": "acestream://6157e8f2e59ca5be675b01b29edd57f86a16d5b1"
 		},
 		{
-		"name": "**NUEVA** OPPENHEIMER",
+		"name": "OPPENHEIMER",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/oppenheimer-828933592-mmed.jpg",
 		"url": "acestream://088234cdaf8864e2016ca0eb2ba5c16078aead96"
-		},
-		{
-		"name": "**NUEVA** BLUE BEETLE",
-		"info": "ESPAÑOL 1080P",
-		"image": "https://pics.filmaffinity.com/Blue_Beetle-374893789-large.jpg",
-		"url": "acestream://7c60be8f6c8800ecfcb04f5321eecd1a12a6434b"
 		},
 		{
 		"name": "Misión imposible: sentencia mortal - Parte 1",
