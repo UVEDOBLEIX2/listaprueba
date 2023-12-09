@@ -10,7 +10,7 @@
 	[
 
 	{
-	"name": "WEBS",
+	"name": "WEBS (solo movil)",
 	"image": "https://d500.epimg.net/cincodias/imagenes/2015/11/20/lifestyle/1448037563_041957_1448037621_noticia_normal.jpg",
 	"imageScale": "",
 	"info":"SOLO EN MOVILES",
@@ -826,28 +826,28 @@
 		[
 
 			{
-			"name": "BARCELONA VS ATLETICO",
-			"info": "",
-			"image": "",
-			"url": "http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/379"
+			"name": "BETIS VS MADRID",
+			"info": "1080P",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/12/09/17021200944582.jpg",
+			"url": "http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151645"
 			},
 			{
-			"name": "DAZN LIGA IPTV",
-			"info": "",
-			"image": "",
-			"url": "http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/119552"
+			"name": "BETIS VS MADRID",
+			"info": "720P",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/12/09/17021200944582.jpg",
+			"url": "http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/190999"
 			},
 			{
-			"name": "DAZN LIGA IPTV",
-			"info": "",
-			"image": "",
-			"url": "http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/119552"
+			"name": "BETIS VS MADRID",
+			"info": "480P",
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/12/09/17021200944582.jpg",
+			"url": "http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/181901"
 			},
 			{
 			"name": "FEF TV (SOLO EVENTOS)",
 			"info": "",
-			"image": "",
-			"url": "https://t.co/FNle20q5cQ"
+			"image": "https://www.atm-es.com/wp-content/uploads/2023/08/ATM-Broadcast-RFEF.jpg",
+			"url": ""
 			}
 		]
 	},
