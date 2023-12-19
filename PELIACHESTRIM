@@ -20,13 +20,25 @@
 		[
 
 		{
-		"name": "**NUEVA** LOS ASESINOS DE LA LUNA",
+		"name": "**NUEVA** CAMPEONEX",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://pics.filmaffinity.com/Campeonex-966482082-large.jpg",
+		"url": "acestream://d4dd82fd5dfea34db557dd5965da68dd9303bcf0"
+		},
+		{
+		"name": "**NUEVA** DEJAR EL MUNDO ATRAS",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://areajugones.sport.es/wp-content/uploads/2023/12/dejar-el-mundo-atras.jpg",
+		"url": "acestream://dba2dbe90fad1a30e029c4c978b7891ea8f01df2"
+		},
+		{
+		"name": "LOS ASESINOS DE LA LUNA",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/43707-238454-20231018071357.jpg",
 		"url": "acestream://8b1df56b8d66300de36c4ce86be87ebc7ea8bfa8"
 		},
 		{
-		"name": "**NUEVA** LOS ASESINOS DE LA LUNA",
+		"name": "LOS ASESINOS DE LA LUNA",
 		"info": "ESPAÑOL 720P",
 		"image": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/43707-238454-20231018071357.jpg",
 		"url": "acestream://3559850ee56e319e6624065d3b9fe866720c6bf7"
