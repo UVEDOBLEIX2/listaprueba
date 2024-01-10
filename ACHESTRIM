@@ -1,7 +1,7 @@
 {
     "name": "IDs",
-    "author": "ACTUALIZADO 3 DICIEMBRE 2023",
-    "url": "http://wiwihd.jimdo.com/",
+    "author": "ACTUALIZADO 10 ENERO 2024",
+    "url": "",
     "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
     "telegram": "",
     "info": "",
@@ -47,6 +47,38 @@
 		  "url" : "https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av",
 		  "embed": "true"
 		  }
+		]
+	},
+
+	{
+	"name": "SUPERCOPA",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png",
+	"stations":
+		[
+			{
+			"name": "SUPERCOPA opcion1",
+			"info": "acestream 1080P",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png",
+			"url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
+			},
+			{
+			"name": "SUPERCOPA opcion2",
+			"info": "acestream 1080P",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png",
+			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+			},
+			{
+			"name": "SUPERCOPA opcion3",
+			"info": "acestream 1080P",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png",
+			"url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
+			},
+			{
+			"name": "SUPERCOPA opcion4",
+			"info": "iptv 1080P",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png",
+			"url": "http://73634340068552962.of1030ok.xyz:80/play/vi0208715/Ht3MPB8Rxd3/552962.ts"
+			}
 		]
 	},
 
