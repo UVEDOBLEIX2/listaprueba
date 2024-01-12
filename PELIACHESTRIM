@@ -20,13 +20,19 @@
 		[
 
 		{
-		"name": "**NUEVA** CAMPEONEX",
+		"name": "*NUEVA* NAPOLEON",
+		"info": "ESPAÑOL 1080P",
+		"image": "https://images.weserv.nl/?url=https://server-local-storage556-mad51.ultracdn.org/imagenes//peliculas/Napoleon--2023---BluRay-1080p.jpg",
+		"url": "acestream://9a6a0bf17dd15aea190f509599dd92bf4cd68ddd"
+		},
+		{
+		"name": "CAMPEONEX",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://pics.filmaffinity.com/Campeonex-966482082-large.jpg",
 		"url": "acestream://d4dd82fd5dfea34db557dd5965da68dd9303bcf0"
 		},
 		{
-		"name": "**NUEVA** DEJAR EL MUNDO ATRAS",
+		"name": "DEJAR EL MUNDO ATRAS",
 		"info": "ESPAÑOL 1080P",
 		"image": "https://areajugones.sport.es/wp-content/uploads/2023/12/dejar-el-mundo-atras.jpg",
 		"url": "acestream://dba2dbe90fad1a30e029c4c978b7891ea8f01df2"
