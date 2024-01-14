@@ -63,7 +63,7 @@
 			},
 			{
 			"name": "SUPERCOPA opcion2",
-			"info": "acestream 1080P",
+			"info": "RECOMENDADA",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT9UriZXskCSRG1LXeQRwSXRamGPnzMy2szKh1wWto0VLGN_i-gDDjPPug8pPz0BSlndPKpU8WWiNE1qovdAB_uUvF_QD51g5vv_vy-SY05xhp1dbEpafLut4z-6n75LP0J2iTDylkDOrYd4-4cSHyVDeSGwlbVsKX_ZzYDlQelG5jAhuD6bf38rqQ/s1600/Patch.png",
 			"url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
 			},
@@ -75,9 +75,15 @@
 			},
 			{
 			"name": "SUPERCOPA opcion4",
-			"info": "iptv 1080P",
+			"info": "acestream 1080P",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT9UriZXskCSRG1LXeQRwSXRamGPnzMy2szKh1wWto0VLGN_i-gDDjPPug8pPz0BSlndPKpU8WWiNE1qovdAB_uUvF_QD51g5vv_vy-SY05xhp1dbEpafLut4z-6n75LP0J2iTDylkDOrYd4-4cSHyVDeSGwlbVsKX_ZzYDlQelG5jAhuD6bf38rqQ/s1600/Patch.png",
-			"url": "http://73634340068552962.of1030ok.xyz:80/play/vi0208715/Ht3MPB8Rxd3/552962.ts"
+			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+			},
+			{
+			"name": "SUPERCOPA opcion5",
+			"info": "acestream 1080P",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT9UriZXskCSRG1LXeQRwSXRamGPnzMy2szKh1wWto0VLGN_i-gDDjPPug8pPz0BSlndPKpU8WWiNE1qovdAB_uUvF_QD51g5vv_vy-SY05xhp1dbEpafLut4z-6n75LP0J2iTDylkDOrYd4-4cSHyVDeSGwlbVsKX_ZzYDlQelG5jAhuD6bf38rqQ/s1600/Patch.png",
+			"url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
 			}
 		]
 	},
@@ -858,28 +864,28 @@
 		[
 
 			{
-			"name": "MOVISTAR DEPORTES",
+			"name": "CANAL EVENTOS 1",
 			"info": "",
-			"image": "",
+			"image": "https://cdn.pixabay.com/photo/2013/07/12/16/56/play-151523_640.png",
 			"url": "acestream://fb13a548c427d104d618d61b87cc66c47805a325"
 			},
 			{
-			"name": "MOVISTAR LIGA CAMPEONES",
+			"name": "CANAL EVENTOS 2",
 			"info": "",
-			"image": "",
+			"image": "https://cdn.pixabay.com/photo/2013/07/12/16/56/play-151523_640.png",
 			"url": "acestream://db42b6826943198e4b51b70955df598eb7342b35"
 			},
 			{
-			"name": "EVENTO 1",
+			"name": "CANAL EVENTOS 3",
 			"info": "",
-			"image": "",
-			"url": "acestream://fb13a548c427d104d618d61b87cc66c47805a325"
+			"image": "https://cdn.pixabay.com/photo/2013/07/12/16/56/play-151523_640.png",
+			"url": "acestream://d3e111e8c4af9be7c78e628a58f312aa94ab5343"
 			},
 			{
-			"name": "FEF TV (SOLO EVENTOS)",
+			"name": "CANAL EVENTOS 4",
 			"info": "",
-			"image": "https://www.atm-es.com/wp-content/uploads/2023/08/ATM-Broadcast-RFEF.jpg",
-			"url": ""
+			"image": "https://cdn.pixabay.com/photo/2013/07/12/16/56/play-151523_640.png",
+			"url": "acestream://69365a308eac829600ba393a7fe78579698abf79"
 			}
 		]
 	},
