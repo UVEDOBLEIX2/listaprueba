@@ -51,51 +51,33 @@
 	},
 
 	{
-	"name": "SUPERCOPA",
-	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT9UriZXskCSRG1LXeQRwSXRamGPnzMy2szKh1wWto0VLGN_i-gDDjPPug8pPz0BSlndPKpU8WWiNE1qovdAB_uUvF_QD51g5vv_vy-SY05xhp1dbEpafLut4z-6n75LP0J2iTDylkDOrYd4-4cSHyVDeSGwlbVsKX_ZzYDlQelG5jAhuD6bf38rqQ/s1600/Patch.png",
+	"name": "COPA AFRICA",
+	"image": "https://i.pinimg.com/236x/ff/53/eb/ff53eb5366ab32287f7b4edf9e350a90.jpg",
 	"stations":
 		[
 			{
-			"name": "SUPERCOPA opcion1",
-			"info": "acestream 1080P",
-			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT9UriZXskCSRG1LXeQRwSXRamGPnzMy2szKh1wWto0VLGN_i-gDDjPPug8pPz0BSlndPKpU8WWiNE1qovdAB_uUvF_QD51g5vv_vy-SY05xhp1dbEpafLut4z-6n75LP0J2iTDylkDOrYd4-4cSHyVDeSGwlbVsKX_ZzYDlQelG5jAhuD6bf38rqQ/s1600/Patch.png",
-			"url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
+			"name": "LALIGA+",
+			"info": "CANAL 1",
+			"image": "https://i.pinimg.com/236x/ff/53/eb/ff53eb5366ab32287f7b4edf9e350a90.jpg",
+			"url": "http://user.ttvrilieos.xyz:8080/sevvi/VtQKxz3bkJ/51622"
 			},
 			{
-			"name": "SUPERCOPA opcion2",
-			"info": "RECOMENDADA",
-			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT9UriZXskCSRG1LXeQRwSXRamGPnzMy2szKh1wWto0VLGN_i-gDDjPPug8pPz0BSlndPKpU8WWiNE1qovdAB_uUvF_QD51g5vv_vy-SY05xhp1dbEpafLut4z-6n75LP0J2iTDylkDOrYd4-4cSHyVDeSGwlbVsKX_ZzYDlQelG5jAhuD6bf38rqQ/s1600/Patch.png",
-			"url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
+			"name": "LALIGA+",
+			"info": "CANAL 1",
+			"image": "https://i.pinimg.com/236x/ff/53/eb/ff53eb5366ab32287f7b4edf9e350a90.jpg",
+			"url": "http://user.ttvrilieos.xyz:8080/sevvi/VtQKxz3bkJ/51621"
 			},
 			{
-			"name": "SUPERCOPA opcion3",
-			"info": "acestream 720P",
-			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT9UriZXskCSRG1LXeQRwSXRamGPnzMy2szKh1wWto0VLGN_i-gDDjPPug8pPz0BSlndPKpU8WWiNE1qovdAB_uUvF_QD51g5vv_vy-SY05xhp1dbEpafLut4z-6n75LP0J2iTDylkDOrYd4-4cSHyVDeSGwlbVsKX_ZzYDlQelG5jAhuD6bf38rqQ/s1600/Patch.png",
-			"url": "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
+			"name": "LALIGA+",
+			"info": "CANAL 2",
+			"image": "https://i.pinimg.com/236x/ff/53/eb/ff53eb5366ab32287f7b4edf9e350a90.jpg",
+			"url": "http://user.ttvrilieos.xyz:8080/sevvi/VtQKxz3bkJ/51625"
 			},
 			{
-			"name": "SUPERCOPA opcion4",
-			"info": "acestream 1080P",
-			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT9UriZXskCSRG1LXeQRwSXRamGPnzMy2szKh1wWto0VLGN_i-gDDjPPug8pPz0BSlndPKpU8WWiNE1qovdAB_uUvF_QD51g5vv_vy-SY05xhp1dbEpafLut4z-6n75LP0J2iTDylkDOrYd4-4cSHyVDeSGwlbVsKX_ZzYDlQelG5jAhuD6bf38rqQ/s1600/Patch.png",
-			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
-			},
-			{
-			"name": "SUPERCOPA opcion5",
-			"info": "acestream 1080P",
-			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT9UriZXskCSRG1LXeQRwSXRamGPnzMy2szKh1wWto0VLGN_i-gDDjPPug8pPz0BSlndPKpU8WWiNE1qovdAB_uUvF_QD51g5vv_vy-SY05xhp1dbEpafLut4z-6n75LP0J2iTDylkDOrYd4-4cSHyVDeSGwlbVsKX_ZzYDlQelG5jAhuD6bf38rqQ/s1600/Patch.png",
-			"url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
-			},
-			{
-			"name": "SUPERCOPA opcion6",
-			"info": "iptv 1080P",
-			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT9UriZXskCSRG1LXeQRwSXRamGPnzMy2szKh1wWto0VLGN_i-gDDjPPug8pPz0BSlndPKpU8WWiNE1qovdAB_uUvF_QD51g5vv_vy-SY05xhp1dbEpafLut4z-6n75LP0J2iTDylkDOrYd4-4cSHyVDeSGwlbVsKX_ZzYDlQelG5jAhuD6bf38rqQ/s1600/Patch.png",
-			"url": "http://user.ttvrilieos.xyz:8080/sevvi/VtQKxz3bkJ/14132"
-			},
-			{
-			"name": "SUPERCOPA opcion7",
-			"info": "iptv 1080P",
-			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT9UriZXskCSRG1LXeQRwSXRamGPnzMy2szKh1wWto0VLGN_i-gDDjPPug8pPz0BSlndPKpU8WWiNE1qovdAB_uUvF_QD51g5vv_vy-SY05xhp1dbEpafLut4z-6n75LP0J2iTDylkDOrYd4-4cSHyVDeSGwlbVsKX_ZzYDlQelG5jAhuD6bf38rqQ/s1600/Patch.png",
-			"url": "http://65.109.111.120:8080/JimaraDirecto/uVaEYpQRJdUw/74986"
+			"name": "LALIGA+",
+			"info": "CANAL 2",
+			"image": "https://i.pinimg.com/236x/ff/53/eb/ff53eb5366ab32287f7b4edf9e350a90.jpg",
+			"url": "http://user.ttvrilieos.xyz:8080/sevvi/VtQKxz3bkJ/51624"
 			}
 		]
 	},
