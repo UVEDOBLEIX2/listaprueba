@@ -51,33 +51,33 @@
 	},
 
 	{
-	"name": "COPA AFRICA",
-	"image": "https://i.pinimg.com/236x/ff/53/eb/ff53eb5366ab32287f7b4edf9e350a90.jpg",
+	"name": "RECRE VS CORDOBA",
+	"image": "https://www.huelvainformacion.es/2021/08/06/deportes/XXXV-Memorial-Gonzalez-Rodriguez-Cordoba_1599150396_142242710_667x375.jpg",
 	"stations":
 		[
 			{
-			"name": "LALIGA+",
-			"info": "CANAL 1",
-			"image": "https://i.pinimg.com/236x/ff/53/eb/ff53eb5366ab32287f7b4edf9e350a90.jpg",
-			"url": "http://user.ttvrilieos.xyz:8080/sevvi/VtQKxz3bkJ/51622"
+			"name": "OPCION 1",
+			"info": "ACESTREAM",
+			"image": "https://www.huelvainformacion.es/2021/08/06/deportes/XXXV-Memorial-Gonzalez-Rodriguez-Cordoba_1599150396_142242710_667x375.jpg",
+			"url": "acestream://fb13a548c427d104d618d61b87cc66c47805a325"
 			},
 			{
-			"name": "LALIGA+",
-			"info": "CANAL 1",
-			"image": "https://i.pinimg.com/236x/ff/53/eb/ff53eb5366ab32287f7b4edf9e350a90.jpg",
-			"url": "http://blackpanther.life:8080/Juananconde/vyLXfZ3nYX4x/65554"
+			"name": "OPCION 2",
+			"info": "ACESTREAM",
+			"image": "https://www.huelvainformacion.es/2021/08/06/deportes/XXXV-Memorial-Gonzalez-Rodriguez-Cordoba_1599150396_142242710_667x375.jpg",
+			"url": "acestream://db42b6826943198e4b51b70955df598eb7342b35"
 			},
 			{
-			"name": "LALIGA+",
-			"info": "CANAL 2",
-			"image": "https://i.pinimg.com/236x/ff/53/eb/ff53eb5366ab32287f7b4edf9e350a90.jpg",
-			"url": "http://user.ttvrilieos.xyz:8080/sevvi/VtQKxz3bkJ/51625"
+			"name": "OPCION 3",
+			"info": "IPTV",
+			"image": "https://www.huelvainformacion.es/2021/08/06/deportes/XXXV-Memorial-Gonzalez-Rodriguez-Cordoba_1599150396_142242710_667x375.jpg",
+			"url": ""
 			},
 			{
-			"name": "LALIGA+",
-			"info": "CANAL 2",
-			"image": "https://i.pinimg.com/236x/ff/53/eb/ff53eb5366ab32287f7b4edf9e350a90.jpg",
-			"url": "http://user.ttvrilieos.xyz:8080/sevvi/VtQKxz3bkJ/51624"
+			"name": "OPCION 4",
+			"info": "IPTV",
+			"image": "https://www.huelvainformacion.es/2021/08/06/deportes/XXXV-Memorial-Gonzalez-Rodriguez-Cordoba_1599150396_142242710_667x375.jpg",
+			"url": ""
 			}
 		]
 	},
