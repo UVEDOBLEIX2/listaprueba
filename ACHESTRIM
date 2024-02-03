@@ -65,7 +65,7 @@
 			"name": "OPCION 2",
 			"info": "RECOMENDADA",
 			"image": "https://i.imgur.com/J3CO698.png",
-			"url": "acestream://db42b6826943198e4b51b70955df598eb7342b35"
+			"url": "acestream://508c14da2567bef9d0b1bcce4ef01fe4ca74447c"
 			},
 			{
 			"name": "OPCION 3",
@@ -78,6 +78,12 @@
 			"info": "",
 			"image": "https://i.imgur.com/J3CO698.png",
 			"url": "http://user.ttvrilieos.xyz:8080/sevvi/VtQKxz3bkJ/10364"
+			}
+			{
+			"name": "OPCION 5",
+			"info": "",
+			"image": "https://i.imgur.com/J3CO698.png",
+			"url": "acestream://9b4155893965f6930d5a73b093261952c4d207fd"
 			}
 		]
 	},
