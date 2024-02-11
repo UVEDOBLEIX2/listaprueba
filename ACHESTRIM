@@ -56,6 +56,12 @@
 	"stations":
 		[
 			{
+			"name": "INFO",
+			"info": "",
+			"image": "https://i.imgur.com/cFOBSYk.png",
+			"url": "https://www.flashscore.es/equipo/cordoba-cf/CWuejruc/"
+			},
+			{
 			"name": "OPCION 1",
 			"info": "",
 			"image": "https://i.imgur.com/J3CO698.png",
@@ -63,7 +69,7 @@
 			},
 			{
 			"name": "OPCION 2",
-			"info": "RECOMENDADA",
+			"info": "",
 			"image": "https://i.imgur.com/J3CO698.png",
 			"url": "acestream://508c14da2567bef9d0b1bcce4ef01fe4ca74447c"
 			},
@@ -77,13 +83,25 @@
 			"name": "OPCION 4",
 			"info": "",
 			"image": "https://i.imgur.com/J3CO698.png",
-			"url": "http://user.ttvrilieos.xyz:8080/sevvi/VtQKxz3bkJ/10364"
+			"url": "acestream://8552d0ab6ca31e07a2de46f2d7ff1c546212dc2b"
 			},
 			{
 			"name": "OPCION 5",
 			"info": "",
 			"image": "https://i.imgur.com/J3CO698.png",
 			"url": "acestream://9b4155893965f6930d5a73b093261952c4d207fd"
+			},
+			{
+			"name": "OPCION 6",
+			"info": "",
+			"image": "https://i.imgur.com/J3CO698.png",
+			"url": "acestream://ea954f97c49ee9d3189855e333630ed0323defa6"
+			},
+			{
+			"name": "OPCION 7",
+			"info": "",
+			"image": "https://i.imgur.com/J3CO698.png",
+			"url": ""
 			}
 		]
 	},
