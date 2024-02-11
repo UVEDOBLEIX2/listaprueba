@@ -1,6 +1,6 @@
 {
     "name": "IDs",
-    "author": "ACTUALIZADO 3 febrero 2024",
+    "author": "ACTUALIZADO 11 FEBRERO 2024",
     "url": "",
     "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
     "telegram": "",
@@ -106,6 +106,25 @@
 		]
 	},
 
+	{
+	"name": "SUPERBOWL",
+	"image": "https://sportshub.cbsistatic.com/i/r/2023/11/08/148dcaaa-8d71-4bca-9a8d-859f19410255/thumbnail/1200x675/8289e894a2b470e7392624dbebe6ae98/sblogo.jpg",
+	"stations":
+		[
+			{
+			"name": "OPCION 1",
+			"info": "",
+			"image": "https://sportshub.cbsistatic.com/i/r/2023/11/08/148dcaaa-8d71-4bca-9a8d-859f19410255/thumbnail/1200x675/8289e894a2b470e7392624dbebe6ae98/sblogo.jpg",
+			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+			},
+			{
+			"name": "OPCION 2",
+			"info": "",
+			"image": "https://sportshub.cbsistatic.com/i/r/2023/11/08/148dcaaa-8d71-4bca-9a8d-859f19410255/thumbnail/1200x675/8289e894a2b470e7392624dbebe6ae98/sblogo.jpg",
+			"url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"
+			}
+		]
+	},
 	{
 	"name": "LA LIGA EA SPORT",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/314px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",
@@ -654,30 +673,6 @@
 			}
 
 
-		]
-	},
-
-	{
-	"name": "DAZN NFL",
-	"image": "https://oncediariostaticnew.s3.amazonaws.com/images/notas/nota_16757988601780_819.jpg",
-	"imageScale": "",
-	"info":"",
-	"stations":
-		[
- 
-		{
-		"name": "DAZN NFL GAME PASS",
-		"info": "OPCION 1",
-		"image": "https://images.daznservices.com/di/library/DAZN_News/7c/f5/nfl-game-pass-dazn_14vxb3cr7qrzm1sqm32pm6oklr.jpg?t=-523900936",
-		"url": "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710"
-		},
-		{
-		"name": "DAZN NFL GAME PASS",
-		"info":"OPCION 2",
-		"image": "https://images.daznservices.com/di/library/DAZN_News/7c/f5/nfl-game-pass-dazn_14vxb3cr7qrzm1sqm32pm6oklr.jpg?t=-523900936",
-		"url": "acestream://5d4eab6f17915c4da2512aee0853e3bb12d60409"
-		}
- 
 		]
 	},
 
