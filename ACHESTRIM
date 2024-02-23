@@ -107,21 +107,33 @@
 	},
 
 	{
-	"name": "SUPERBOWL",
-	"image": "https://sportshub.cbsistatic.com/i/r/2023/11/08/148dcaaa-8d71-4bca-9a8d-859f19410255/thumbnail/1200x675/8289e894a2b470e7392624dbebe6ae98/sblogo.jpg",
+	"name": "COPA DEL REY",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Logo_Copa_del_Rey_2021_%28red_badge%29.svg/1200px-Logo_Copa_del_Rey_2021_%28red_badge%29.svg.png",
 	"stations":
 		[
 			{
 			"name": "OPCION 1",
 			"info": "",
-			"image": "https://sportshub.cbsistatic.com/i/r/2023/11/08/148dcaaa-8d71-4bca-9a8d-859f19410255/thumbnail/1200x675/8289e894a2b470e7392624dbebe6ae98/sblogo.jpg",
-			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Logo_Copa_del_Rey_2021_%28red_badge%29.svg/1200px-Logo_Copa_del_Rey_2021_%28red_badge%29.svg.png",
+			"url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
 			},
 			{
 			"name": "OPCION 2",
 			"info": "",
-			"image": "https://sportshub.cbsistatic.com/i/r/2023/11/08/148dcaaa-8d71-4bca-9a8d-859f19410255/thumbnail/1200x675/8289e894a2b470e7392624dbebe6ae98/sblogo.jpg",
-			"url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Logo_Copa_del_Rey_2021_%28red_badge%29.svg/1200px-Logo_Copa_del_Rey_2021_%28red_badge%29.svg.png",
+			"url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
+			},
+			{
+			"name": "OPCION 3",
+			"info": "",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Logo_Copa_del_Rey_2021_%28red_badge%29.svg/1200px-Logo_Copa_del_Rey_2021_%28red_badge%29.svg.png",
+			"url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
+			},
+			{
+			"name": "OPCION 4",
+			"info": "",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Logo_Copa_del_Rey_2021_%28red_badge%29.svg/1200px-Logo_Copa_del_Rey_2021_%28red_badge%29.svg.png",
+			"url": "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
 			}
 		]
 	},
@@ -587,91 +599,60 @@
 	},
 
 	{
-	"name": "DAZN F1",
-	"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=745688645147_image-header_pEs_1675692301000&quality=70",
+	"name": "FORMULA 1 2024",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw5IDByVHViSt-ovE5nmqBjj1qaKkIrGl0zg&usqp=CAU",
 	"imageScale": "",
-	"info":"",
+	"info":"ACTUALIZADOS ENLACES 2024",
 	"stations":
 		[
 			{
 			"name": "DAZN F1 [1080]",
 			"info": "OPCION 1",
-			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
 			"url": "acestream://5789ca155323664edd293b848606688edf803f4d"
 			},
 			{
 			"name": "DAZN F1 [1080]",
 			"info": "OPCION 2",
-			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
 			"url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"
 			},
 			{
 			"name": "DAZN F1 [720]",
 			"info":"OPCION 3",
-			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
 			"url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
 			},
 			{
-			"name": "DAZN F1 [4K]",
+			"name": "DAZN F1 [1080]",
 			"info":"OPCION 4",
-			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
+			"url": "acestream://d65257bb934b73647374224fd62d836815804be2"
+			},
+			{
+			"name": "DAZN F1 [4K]",
+			"info":"proximamente",
+			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
 			"url": "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041"
 			},
 			{
 			"name": "Multicamara",
-			"info":"Solo en carrera",
-			"image": "https://i.postimg.cc/t4bQRT25/f1tvlogo.png",
+			"info":"test 🇪🇸",
+			"image": "https://play-lh.googleusercontent.com/qICP0Om4y3Q-26P9E3Cu9NRaij8RlyB-RKIE1cTKAXQaiIXy9SKSgp3WNKoDcfJ8pdU=w526-h296-rw",
 			"url": "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e"
 			},
 			{
-			"name": "F1TV Tracker",
-			"info":"Solo en carrera",
-			"image": "https://i.postimg.cc/t4bQRT25/f1tvlogo.png",
-			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566263&extension=ts&play_token=P8OKnbEubF"
+			"name": "F1TV FHD",
+			"info":"test 🇪🇸",
+			"image": "https://i.blogs.es/97fd93/cuanto-cuesta-donde-ver-f1-tv-mexico/840_560.jpeg",
+			"url": "acestream://f7cbfac72ab031d8e1013062f6577cce12a96ee2"
 			},
 			{
-			"name": "F1TV Tiempos/Datos",
-			"info":"Solo en carrera",
-			"image": "https://i.postimg.cc/t4bQRT25/f1tvlogo.png",
-			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566264&extension=ts&play_token=BjTjzU0UNZ2"
-			},
-			{
-			"name": "ONBOARD ALONSO",
-			"info":"Solo en carrera",
-			"image": "https://fotografias.lasexta.com/clipping/cmsimages01/2023/10/30/CBEC9212-DB10-439D-B834-EAE841565AC6/montaje-fernando-alonso-mono-red-bull_98.jpg?crop=720,405,x0,y37&width=1900&height=1069&optimize=low&format=webply",
-			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fc:bb:92&stream=1566261&extension=ts&play_token=O7UCJrTP35"
-			},
-			{
-			"name": "ONBOARD VERSTAPPEN",
-			"info":"Solo en carrera",
-			"image": "https://i.postimg.cc/zB4wZRrM/max.png",
-			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566244&extension=ts&play_token=bJCs6smbnR"
-			},
-			{
-			"name": "ONBOARD CHECO",
-			"info":"Solo en carrera",
-			"image": "https://i.postimg.cc/NGr78b8w/checo.png",
-			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566250&extension=ts&play_token=TQHHc57AN5"
-			},
-			{
-			"name": "ONBOARD SAINZ",
-			"info":"Solo en carrera",
-			"image": "https://i.postimg.cc/nLRY2Pwn/sainz.png",
-			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566247&extension=ts&play_token=P5N1amc418"
-			},
-			{
-			"name": "ONBOARD HAMILTON",
-			"info":"Solo en carrera",
-			"image": "https://i.postimg.cc/Xv7kwbL2/ham.png",
-			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566258&extension=ts&play_token=eyPnw4UPgC"
-			},
-			{
-			"name": "ONBOARD LECLERC",
-			"info":"Solo en carrera",
-			"image": "https://i.postimg.cc/Hn5wpsWL/leclerc.png",
-			"url": "http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566255&extension=ts&play_token=W6DHzHM6AF"
+			"name": "SKY SPORT HD",
+			"info":"🧿",
+			"image": "https://soymotor.com/sites/default/files/imagenes/noticia/logo-f1-liberty-soymotor.jpg",
+			"url": "acestream://aabcdb000db7310b1fae3c955eb0aa275c3c9e7f"
 			}
-
 
 		]
 	},
@@ -844,7 +825,7 @@
 			{
 			"name": "M+ [1080]",
 			"info": "75c0",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/1200px-Movistar_Plus%2B_2022_logo.svg.png",
+			"image": "https://cdn.worldvectorlogo.com/logos/movistar-plus-2.svg",
 			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
 			}
 		]
