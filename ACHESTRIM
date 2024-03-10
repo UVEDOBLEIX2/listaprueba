@@ -44,19 +44,6 @@
 		]
 	},
 
-	{
-	"name": "NADAL VS ALCARAZ",
-	"image": "https://cdn.hoyaragon.es/wp-content/uploads/2024/03/01121047/3-2024-03-01-12-10-38-768x432.png",
-	"stations":
-		[
-			{
-			"name": "EL SLAM DE NETFLIX",
-			"info": "21:30 3 MARZO",
-			"image": "https://cdn.hoyaragon.es/wp-content/uploads/2024/03/01121047/3-2024-03-01-12-10-38-768x432.png",
-			"url": "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710"
-			}
-		]
-	},
 
 	{
 	"name": "CORDOBA CF [FEF TV]",
