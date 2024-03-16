@@ -59,13 +59,13 @@
 			{
 			"name": "CANAL 1",
 			"info": "18:00 Castellón - Córdoba",
-			"image": "https://i.imgur.com/J3CO698.png",
+			"image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",
 			"url": "acestream://ee38ea1806129de000bd7925a5d52554d70bb560"
 			},
 			{
 			"name": "CANAL 2",
 			"info": "18:00 Antequera - Recreativo",
-			"image": "https://i.imgur.com/J3CO698.png",
+			"image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",
 			"url": "acestream://76f48ddb3066dd67c1f73a1d847a392c8890032d"
 			}
 		]
