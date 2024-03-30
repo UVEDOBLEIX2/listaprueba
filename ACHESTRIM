@@ -36,6 +36,24 @@
 		  "embed": "true"
 		  },
 	  	  {
+			"name": "WEB DEPORTES 1",
+		   "image": "https://s3.abcstatics.com/media/bienestar/2019/09/17/futbol-1-kU3C--1248x698@abc.jpg",    
+		  "url" : "https://www.rbtv77.makeup/es",
+		  "embed": "true"
+		  },
+	  	  {
+			"name": "WEB DEPORTES 2",
+		   "image": "https://s3.abcstatics.com/media/bienestar/2019/09/17/futbol-1-kU3C--1248x698@abc.jpg",    
+		  "url" : "https://futbito-bonito.vercel.app/",
+		  "embed": "true"
+		  },
+	  	  {
+			"name": "WEB DEPORTES 3",
+		   "image": "https://s3.abcstatics.com/media/bienestar/2019/09/17/futbol-1-kU3C--1248x698@abc.jpg",    
+		  "url" : "https://www.misterchire.com/pc/",
+		  "embed": "true"
+		  },
+	  	  {
 			"name": "WEB OFICIAL",
 		   "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",    
 		  "url" : "https://wiwihd.jimdofree.com/",
@@ -68,16 +86,25 @@
 			"image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",
 			"url": "acestream://76f48ddb3066dd67c1f73a1d847a392c8890032d"
 			},
-			{
+	  	  {
 			"name": "CANAL 3",
-			"info": "",
-			"image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",
-			"url": "http://1line.ttvrilieos.xyz:8080/icardMegar/ypd5X3Xyus/10360"
-			},
+			"info": "SOLO MOVILES",
+		   "image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",    
+		  "url" : "https://emmajj8f.homebasis4d.shop/es/football/spanish-primera-division-rfef-3800450/merida-ad-vs-cordoba.html?icg=RVM%3D%28ES%29",
+		  "embed": "true"
+		  }
 	  	  {
 			"name": "CANAL 4",
+			"info": "SOLO MOVILES",
 		   "image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",    
-		  "url" : "https://emmab1tq.homebasis4d.shop/es/football/spanish-primera-division-rfef-3800441/cordoba-vs-san-fernando-cd.html?icg=RVM%3D&ilang=es",
+		  "url" : "https://roan11gg.walkuntilbd9j.shop/es/football/spanish-primera-division-rfef-3800450/merida-ad-vs-cordoba.html?icg=RVM%3D",
+		  "embed": "true"
+		  },
+	  	  {
+			"name": "FUTBOL SALA",
+			"info": "SOLO MOVILES",
+		   "image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",    
+		  "url" : "https://elsa11gg.wholecommonrrvp.shop/es/football/spanish-futsal-division-de-honor-3948032/real-betis-futsal-vs-cordoba-futsal.html?icg=RVM%3D",
 		  "embed": "true"
 		  }
 		]
