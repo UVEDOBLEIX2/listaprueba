@@ -10,6 +10,65 @@
 	[
 
 	{
+	"name": "REINA ROJA",
+	"image": "https://pics.filmaffinity.com/Reina_Roja_Serie_de_TV-983415661-large.jpg",
+	"imageScale": "",
+	"info":"PRIME VIDEO",
+	"stations":
+		[
+
+
+		{
+		"name": "Capitulo 1",
+		"info": "TEMPORADA 1",
+		"image": "",
+		"url": "acestream://017a81296f7a6b6ba715315b1a51f9ef1d7f9938"
+		},
+		{
+		"name": "Capitulo 2",
+		"info": "TEMPORADA 1",
+		"image": "",
+		"url": "acestream://b273f74866eb77b93fea31413717fc18311cbb53"
+		},
+
+		{
+		"name": "Capitulo 3",
+		"info": "",
+		"image": "TEMPORADA 1",
+		"url": "acestream://23ccd51e9382f7e322fa47db91e7d1f78fafc227"
+		},
+		{
+		"name": "Capitulo 4",
+		"info": "TEMPORADA 1",
+		"image": "",
+		"url": "acestream://eb9de17820862a8f8666267ed5b76b6db2542266"
+		},
+		{
+		"name": "Capitulo 5",
+		"info": "TEMPORADA 1",
+		"image": "",
+		"url": "acestream://6ddc047cc97f8ad643a7f51df2e46a406513e80d"
+		},
+
+		{
+		"name": "Capitulo 6",
+		"info": "",
+		"image": "TEMPORADA 1",
+		"url": "acestream://802746da9881903af11752a25fd269518b820894"
+		},
+		{
+		"name": "Capitulo 7",
+		"info": "",
+		"image": "TEMPORADA 1",
+		"url": "acestream://85db80cee06c072031fc278ec0f3b2a0e610a816"
+		}
+
+
+
+		]
+	},
+
+	{
 	"name": "30 MONEDAS",
 	"image": "https://pics.filmaffinity.com/30_monedas_Serie_de_TV-184810448-large.jpg",
 	"imageScale": "",
