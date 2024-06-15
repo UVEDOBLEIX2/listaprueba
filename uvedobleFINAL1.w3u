@@ -2,21 +2,21 @@
 "name": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
 "author": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
 "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
-"info":"ACTUALIZADO 14/11/23",
+"info":"ACTUALIZADO 15/06/24",
 "telegram":"",
 "groups":
 [
 {
-"name": "CONTENIDO ACESTREAM",
-"image": "https://i.ytimg.com/vi/qrSOUF0bFnk/sddefault.jpg",
+"name": "DEPORTES",
+"image": "https://cdn.worldvectorlogo.com/logos/sports.svg",
 "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/MENUUVEDOBLEACHESTRIM",
 "info":"NECESARIA APP ACESTREAM.",
 "import": false
 },
 {
-"name": "CANALES DEPORTIVOS (SIN ACESTREAM)",
+"name": "TDT CHANNELS",
 "image": "https://i.imgur.com/bPm3V5N.png",
-"url": "https://aficionados.vercel.app/09.Menu.ZoNa.DepOrTiVa.w3u",
+"url": "https://pastebin.com/UWXsWLF9",
 "info":"",
 "import": false
 },
@@ -30,19 +30,19 @@
 {
 "name": "DEPORTES DIFERIDO",
 "image": "https://i.imgur.com/incWnN8.png",
-"url": "https://aficionados.vercel.app/03.Menu.DepOrtEs.dIFerIDos.w3u",
+"url": "https://af1c1onados.vercel.app/03.0.Menu.DepOrtEs.dIFerIDos.w3u",
 "import": false
 },
 {
 "name": "DOCUMENTALES DEPORTIVOS",
 "image": "https://i.imgur.com/ESzkT4N.png",
-"url": "https://aficionados.vercel.app/04.Menu.DoCU.DepOrtIvoS.w3u",
+"url": "https://af1c1onados.vercel.app/04.0.Menu.DoCUmENTaLeS.w3u",
 "import": false
 },
 {
 "name": "EVENTOS DEL DIA",
 "image": "https://thumbs.dreamstime.com/b/muestra-de-live-stream-emblema-logotipo-92479158.jpg",
-"url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/10.EVEntOs.dEl.DiA.w3u",
+"url": "https://af1c1onados.vercel.app/10.EVEntOs.dEl.DiA.w3u",
 "import": false
 },
 ]
