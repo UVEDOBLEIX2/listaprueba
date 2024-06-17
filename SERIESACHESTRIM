@@ -10,6 +10,40 @@
 	[
 
 	{
+	"name": "LA CASA DEL DRAGON",
+	"image": "https://imagenes.20minutos.es/files/image_640_auto/uploads/imagenes/2024/03/21/rhaenys-targaryen-y-corlys-velaryon-en-la-casa-del-dragon.jpeg",
+	"imageScale": "",
+	"info":"MAX",
+	"stations":
+		[
+
+
+		{
+		"name": "Capitulo 1",
+		"info": "TEMPORADA 2",
+		"image": "",
+		"url": "acestream://67d0fff3874af38c718f27e12c100d8f406fc703"
+		},
+		{
+		"name": "Capitulo 2 (24 JUNIO)",
+		"info": "",
+		"image": "",
+		"url": "acestream://"
+		},
+
+		{
+		"name": "Capitulo 3 (1 JULIO)",
+		"info": "",
+		"image": "",
+		"url": "acestream://"
+		},
+
+
+
+		]
+	},
+
+	{
 	"name": "REINA ROJA",
 	"image": "https://pics.filmaffinity.com/Reina_Roja_Serie_de_TV-983415661-large.jpg",
 	"imageScale": "",
