@@ -62,6 +62,67 @@
 		]
 	},
 
+	{
+	"name": "FORMULA 1 2024",
+	"image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=y44drrjcqtxa18g3arxjz58ge_image-header_pEs_1675692164000",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+			{
+			"name": "DAZN F1 [1080]",
+			"info": "OPCION 1",
+			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
+			"url": "acestream://5789ca155323664edd293b848606688edf803f4d"
+			},
+			{
+			"name": "DAZN F1 [1080]",
+			"info": "OPCION 2",
+			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
+			"url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"
+			},
+			{
+			"name": "DAZN F1 [720]",
+			"info":"OPCION 3",
+			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
+			"url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
+			}
+		]
+	},
+
+	{
+	"name": "EUROCOPA",
+	"image": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/10/logotipo-Eurocopa-Alemania-Foto-Archivo.jpg",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+			{
+			"name": "LA 1",
+			"info": "1080P",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
+			"url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
+			},
+			{
+			"name": "LA 1",
+			"info": "4K UHD",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/1200px-Logo_La_1_UHD_2024.svg.png",
+			"url": "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666"
+			},
+	                {
+	                    "name": "ESPN Argentina",
+	                    "info": "1080P",
+	                    "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+	                    "url": "acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00"
+	                },
+	                {
+	                    "name": "ESPN 3 Argentina",
+	                    "info": "1080P",
+	                    "image": "https://i.postimg.cc/prL9vXKK/espn-3-logo.png",
+	                    "url": "acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e"
+	                }
+		]
+	},
 
 	{
 	"name": "FEF TV",
@@ -568,64 +629,6 @@
 		]
 	},
 
-	{
-	"name": "FORMULA 1 2024",
-	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw5IDByVHViSt-ovE5nmqBjj1qaKkIrGl0zg&usqp=CAU",
-	"imageScale": "",
-	"info":"ACTUALIZADOS ENLACES 2024",
-	"stations":
-		[
-			{
-			"name": "DAZN F1 [1080]",
-			"info": "OPCION 1",
-			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
-			"url": "acestream://5789ca155323664edd293b848606688edf803f4d"
-			},
-			{
-			"name": "DAZN F1 [1080]",
-			"info": "OPCION 2",
-			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
-			"url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"
-			},
-			{
-			"name": "DAZN F1 [720]",
-			"info":"OPCION 3",
-			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
-			"url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
-			},
-			{
-			"name": "DAZN F1 [1080]",
-			"info":"OPCION 4",
-			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
-			"url": "acestream://d65257bb934b73647374224fd62d836815804be2"
-			},
-			{
-			"name": "DAZN F1 [4K]",
-			"info":"proximamente",
-			"image": "https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",
-			"url": "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041"
-			},
-			{
-			"name": "Multicamara",
-			"info":"test 🇪🇸",
-			"image": "https://play-lh.googleusercontent.com/qICP0Om4y3Q-26P9E3Cu9NRaij8RlyB-RKIE1cTKAXQaiIXy9SKSgp3WNKoDcfJ8pdU=w526-h296-rw",
-			"url": "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e"
-			},
-			{
-			"name": "F1TV FHD",
-			"info":"test 🇪🇸",
-			"image": "https://i.blogs.es/97fd93/cuanto-cuesta-donde-ver-f1-tv-mexico/840_560.jpeg",
-			"url": "acestream://f7cbfac72ab031d8e1013062f6577cce12a96ee2"
-			},
-			{
-			"name": "SKY SPORT HD",
-			"info":"🧿",
-			"image": "https://soymotor.com/sites/default/files/imagenes/noticia/logo-f1-liberty-soymotor.jpg",
-			"url": "acestream://aabcdb000db7310b1fae3c955eb0aa275c3c9e7f"
-			}
-
-		]
-	},
 
 
 	{
