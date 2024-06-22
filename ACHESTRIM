@@ -125,8 +125,8 @@
 	},
 
 	{
-	"name": "FEF TV",
-	"image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",
+	"name": "FINALES ASCENSO SEGUNDA",
+	"image": "https://cdn.resfu.com/media/img_news/finales-del--play-off--de-ascenso-a-segunda-division-en-2024--besoccer.png",
 	"stations":
 		[
 			{
@@ -137,34 +137,40 @@
 			},
 			{
 			"name": "CANAL 1",
-			"info": "",
-			"image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",
+			"info": "FEF TV",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/480px-FEF_TV_Logo.png",
 			"url": "acestream://4340f8b4726bedadbc2bd0d137cf3b4f6afa40ef"
 			},
 			{
 			"name": "CANAL 2",
-			"info": "",
-			"image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",
+			"info": "FEF TV",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FEF_TV_Logo.png/480px-FEF_TV_Logo.png",
 			"url": "acestream://6af6ef2a1e14b58801a1176f88ea5e323fb0ac20"
 			},
-	  	  {
-			"name": "CANAL 3 (solo movil)",
-		   "image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",    
-		  "url" : "https://emma7dgd.publicspeed5c.shop/es/football/spanish-primera-division-rfef-3800531/ibiza-eivissa-vs-cordoba.html?icg=RVM%3D&ilang=es",
-		  "embed": "true"
-		  },
-	  	  {
-			"name": "CANAL 4 (solo movil)",
-		   "image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",    
-		  "url" : "https://rob11gg.nervousdoctor9bx.shop/es/football/spanish-primera-division-rfef-3800491/castellon-vs-ud-melilla.html",
-		  "embed": "true"
-		  },
-	  	  {
-			"name": "FUTBOL SALA (solo movil)",
-		   "image": "https://sfcd.es/wp-content/uploads/2023/08/1754-1241-max.png",    
-		  "url" : "https://vkvsd176.mycdn.me:443/hls/6574282967795.m3u8/sig/SnGqMEVuhy0/expires/1713765019353/srcIp/62.101.180.38/urls/45.136.20.47/clientType/14/srcAg/CHROME_ANDROID/mid/7561913379827/6574282967795_fullhd/index.m3u8",
-		  "embed": "true"
-		  }
+			{
+			"name": "CANAL 3",
+			"info": "CANAL SUR",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Canal_Sur_Radio_y_Televisi%C3%B3n.jpg",
+			"url": "http://todoporti.eu:80/b6LCpQDCWPtV/49M3ArLUhHwK/69199"
+			},
+			{
+			"name": "CANAL 4",
+			"info": "CANAL SUR",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Canal_Sur_Radio_y_Televisi%C3%B3n.jpg",
+			"url": "http://269932175771272448.ofg0316.xyz:80/play/vi923880/GrWWfYfXD5/272448.ts"
+			},
+			{
+			"name": "CANAL 5",
+			"info": "CANAL SUR",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Canal_Sur_Radio_y_Televisi%C3%B3n.jpg",
+			"url": "https://www.youtube.com/@canalsur/live"
+			},
+			{
+			"name": "CANAL 5",
+			"info": "esport3",
+			"image": "https://static.wikia.nocookie.net/logopedia/images/5/54/Esport3_logo2011-578x430.png/revision/latest?cb=20200602193535&path-prefix=es",
+			"url": "http://269932175771538755.ofg0316.xyz:80/play/vi923880/GrWWfYfXD5/538755.ts"
+			}
 		]
 	},
 
