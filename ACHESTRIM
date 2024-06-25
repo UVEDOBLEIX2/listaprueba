@@ -109,18 +109,20 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/1200px-Logo_La_1_UHD_2024.svg.png",
 			"url": "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666"
 			},
-	                {
-	                    "name": "ESPN Argentina",
-	                    "info": "1080P",
-	                    "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
-	                    "url": "acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00"
-	                },
-	                {
-	                    "name": "ESPN 3 Argentina",
-	                    "info": "1080P",
-	                    "image": "https://i.postimg.cc/prL9vXKK/espn-3-logo.png",
-	                    "url": "acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e"
-	                }
+			{
+			"name": "LA 2",
+			"info": "1080p",
+			"image": "https://www.camilos.es/wp-content/uploads/2018/03/logo_tve-2-750699.png",
+			"url": "acestream://60106275d34f995e26bb2cc4a21a42f586c6c555"
+			},
+			{
+			"name": "TDP",
+			"info": "1080p",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+			"url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"
+			}
+
+
 		]
 	},
 
@@ -293,7 +295,7 @@
 			"url": "acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830"
 			},
 			{
-			"name": "M+ [1080]",
+			"name": "MOVISTAR PLUS + [1080]",
 			"info": "75c0",
 			"image": "https://play-lh.googleusercontent.com/58WhUbhDxh9K0a98dI4qNjwAyOBaNyGauw4RBENw7y4NMHTJQcKufiDUXFaRaTy8Xzc=w600-h300-pc0xffffff-pd",
 			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
@@ -357,12 +359,6 @@
 			"info": "770c",
 			"image": "https://i.ibb.co/2qxWsCP/BeMad.jpg",
 			"url": "acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c"
-			},
-			{
-			"name": "MOVISTAR PLUS + [1080]",
-			"info":"75c0",
-			"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
 			},
 			{
 			"name": "BARCA TV [720]",
