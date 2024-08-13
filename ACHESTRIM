@@ -38,7 +38,7 @@
 	  	  {
 			"name": "WEB DEPORTES 1",
 		   "image": "https://s3.abcstatics.com/media/bienestar/2019/09/17/futbol-1-kU3C--1248x698@abc.jpg",    
-		  "url" : "https://www.rbtv77.makeup/es",
+		  "url" : "https://www.rbtv77.store/es",
 		  "embed": "true"
 		  },
 	  	  {
@@ -52,13 +52,41 @@
 		   "image": "https://s3.abcstatics.com/media/bienestar/2019/09/17/futbol-1-kU3C--1248x698@abc.jpg",    
 		  "url" : "https://www.misterchire.com/pc/",
 		  "embed": "true"
-		  },
-	  	  {
-			"name": "WEB OFICIAL",
-		   "image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",    
-		  "url" : "https://wiwihd.jimdofree.com/",
-		  "embed": "true"
 		  }
+		]
+	},
+
+	{
+	"name": "SUPERCOPA",
+	"image": "https://editorial.uefa.com/resources/0290-1b8be8b7ed51-0b615ca48a08-1000/scup.jpeg",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+			{
+			"name": "MOVISTAR+",
+			"info": "OPCION 1",
+			"image": "https://editorial.uefa.com/resources/0290-1b8be8b7ed51-0b615ca48a08-1000/scup.jpeg",
+			"url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+			},
+			{
+			"name": "LIGA DE CAMPEONES",
+			"info": "OPCION 2",
+			"image": "https://editorial.uefa.com/resources/0290-1b8be8b7ed51-0b615ca48a08-1000/scup.jpeg",
+			"url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"
+			},
+			{
+			"name": "LIGA TV BAR",
+			"info":"OPCION 3",
+			"image": "https://editorial.uefa.com/resources/0290-1b8be8b7ed51-0b615ca48a08-1000/scup.jpeg",
+			"url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
+			}
+			{
+			"name": "MOVISTAR+ (SOLO MOVIL)",
+			"info":"OPCION 3",
+			"image": "https://editorial.uefa.com/resources/0290-1b8be8b7ed51-0b615ca48a08-1000/scup.jpeg",
+			"url": "https://jack2uy2.freedombetter54.shop/es/football/uefa-super-cup-3975053/real-madrid-vs-atalanta.html?icg=RVM&ilang=es"
+			}
 		]
 	},
 
@@ -252,27 +280,39 @@
 		[
 			{
 			"name": "LaLiga HyperMotion [1080][Multiaudio]",
-			"info": "94cf",
-			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+			"info": "OPCION 1",
+			"image": "https://www.misterchire.com/wp-content/uploads/2023/09/icono-llh-1080.jpg",
 			"url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"
 			},
 			{
 			"name": "LaLiga HyperMotion [720]",
-			"info": "b3f4",
-			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+			"info": "OPCION 2",
+			"image": "https://www.misterchire.com/wp-content/uploads/2023/09/icono-llh-720.jpg",
 			"url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
 			},
 			{
 			"name": "LaLiga HyperMotion 2 [1080][Multiaudio]",
-			"info": "b087",
-			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+			"info": "OPCION 1",
+			"image": "https://www.misterchire.com/wp-content/uploads/2023/09/icono-llh-2-1080.jpg",
 			"url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"
 			},
 			{
 			"name": "LaLiga HyperMotion 2 [720]",
-			"info": "2924",
-			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+			"info": "OPCION 2",
+			"image": "https://www.misterchire.com/wp-content/uploads/2023/09/icono-llh-2-720.jpg",
 			"url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"
+			},
+			{
+			"name": "LaLiga HyperMotion 3 [720]",
+			"info": "",
+			"image": "https://www.misterchire.com/wp-content/uploads/2023/09/icono-llh-3.jpg",
+			"url": "acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e"
+			},
+			{
+			"name": "LaLiga HyperMotion 4 [720]",
+			"info": "",
+			"image": "https://www.misterchire.com/wp-content/uploads/2023/09/icono-llh-4.jpg",
+			"url": "acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2"
 			}
 		]
 	},
@@ -587,6 +627,27 @@
 		]
 	},
 
+	{
+	"name": "CANALES 4K (ABRIR CON VLC)",
+	"image": "https://www.displayninja.com/wp-content/uploads/2019/06/What-Is-4K-Ultra-HD.jpg",
+	"imageScale": "",
+	"info": "",
+	"stations":
+		[
+			{
+			"name": "EUROSPORT 4K",
+			"info": "",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgdqJODqwW6zAFu6rkzH-mNfUvkcdX52R2g&s",
+			"url": "acestream://63135c171f056d1d6028f9ffb1637ed704b88a20"
+			},
+			{
+			"name": "LA 1 UHD",
+			"info": "",
+			"image": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/02/08/La1UHD-kQ9B-U21014755220107tH-1200x840@Las%20Provincias.jpg",
+			"url": "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666"
+			}
+		]
+	},
 
 
 	{
