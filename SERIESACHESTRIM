@@ -1,7 +1,7 @@
 {
-  "name": "",
-  "author": "",
-  "image": "",
+  "name": "importar",
+  "author": "importar",
+  "image": "https://i.imgur.com/L5RUMsy.png",
   "url": "",
   "telegram": "",
   "info": "",
@@ -11,13 +11,12 @@
       "image": "https://cdn-icons-png.flaticon.com/512/1057/1057190.png",
       "stations": [
         {
-          "name": "NUEVA LISTA | Añadir Lista",
+          "name": "IMPORTAR NUEVA LISTA",
           "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://bit.ly/uvedoble2",
           "import": true
         }
       ]
     }
-   
   ]
 }
