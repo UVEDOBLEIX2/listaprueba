@@ -1,36 +1,23 @@
 {
-    "name": "",
-    "author": "",
-    "url": "",
-    "image": "",
-    "telegram": "",
-    "info": "",
-    "groups": 
-        
-        [
-
-	    {
-	      "name": "Importar Listas",
-	      "image": "https://i.imgur.com/YAaMwxN.png",
-	      "stations": [
-	        {
-	          "name": "NUEVA LISTA | Añadir Lista",
-	          "image": "https://i.imgur.com/YAaMwxN.png",
-	          "url": "https://bit.ly/uvedoble2",
-	          "import": true
-	        },
-		]
-	    }
-
-
-
-	
-	]
-
-
-	
-
-
-
-
+  "name": "",
+  "author": "",
+  "image": "",
+  "url": "",
+  "telegram": "",
+  "info": "",
+  "groups": [
+    {
+      "name": "Importar nueva lista",
+      "image": "https://cdn-icons-png.flaticon.com/512/1057/1057190.png",
+      "stations": [
+        {
+          "name": "NUEVA LISTA | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://bit.ly/uvedoble2",
+          "import": true
+        }
+      ]
+    }
+   
+  ]
 }
