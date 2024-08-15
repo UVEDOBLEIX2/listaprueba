@@ -1,23 +1,64 @@
 {
-  "name": "",
-  "author": "",
-  "image": "",
-  "url": "",
-  "telegram": "",
-  "info": "",
+  "name": "MEGA LISTA TV WISEPLAY",
+  "author": "Staff Listaswiseplay - 12/03/2024",
+  "image": "https://i.imgur.com/L5RUMsy.png",
+  "url": "https://megalista.vercel.app/megalista_tv.w3u",
+  "telegram": "listaswiseplay",
+  "info": "Canales Oficiales Gratuitos y 100% Legales",
   "groups": [
     {
-      "name": "Importar nueva lista",
-      "image": "https://cdn-icons-png.flaticon.com/512/1057/1057190.png",
+      "name": "Importar Listas",
+      "image": "https://i.imgur.com/YAaMwxN.png",
       "stations": [
         {
-          "name": "NUEVA LISTA | Añadir Lista",
+          "name": "TDTChannels - LaQuay | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://bit.ly/uvedoble2",
+          "url": "https://www.tdtchannels.com/lists/tvradio.w3u",
+          "import": true
+        },
+        {
+          "name": "Pluto TV - HL | Añadir Lista ",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/AIO.w3u",
+          "import": true
+        },
+        {
+          "name": "Runtime TV - HL | Añadir Lista ",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/main/tv/w3u/RuntimeTV_tv.w3u",
+          "import": true
+        },
+        {
+          "name": "Plex TV - MJH | Añadir Lista ",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://megalista.vercel.app/megalista_tv/plextv.w3u",
+          "import": true
+        },
+        {
+          "name": "Samsung TV Plus - MJH | Añadir Lista ",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://megalista.vercel.app/megalista_tv/samsungtvplus.w3u",
+          "import": true
+        },
+        {
+          "name": "Rakuten TV - HL | Añadir Lista ",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u",
+          "import": true
+        },
+        {
+          "name": "RadTV - HL | Añadir Lista ",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u",
+          "import": true
+        },
+        {
+          "name": "CanelaTV - HL | Añadir Lista ",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u",
           "import": true
         }
       ]
     }
-   
   ]
 }
