@@ -1,8 +1,8 @@
 {
-"name": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
-"author": "ㄩᐯ乇ᗪㄖ乃ㄥ乇",
-"image": "https://media3.giphy.com/media/Fcs86R9rW7Vy9rwwlj/giphy.gif",
-"info":"ACTUALIZADO 15/06/24",
+"name": "",
+"author": "CAMBIO LINK",
+"image": "https://st2.depositphotos.com/1259239/9745/v/950/depositphotos_97452718-stock-illustration-closed-cerrado-sign-in-white.jpg",
+"info":"",
 "telegram":"",
 "groups":
 [
@@ -10,40 +10,8 @@
 "name": "ACESTREAM",
 "image": "https://play-lh.googleusercontent.com/eNYOraC9zc8Po9DFe41g1WzF-JSXqigWAM2IUWjeRHaJRb3JQbc34y9IvehplQE2uAAp",
 "url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/MENUUVEDOBLEACHESTRIM",
-"info":"NECESARIA APP ACESTREAM.",
+"info":".",
 "import": false
-},
-{
-"name": "TDT CHANNELS",
-"image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/logo.png",
-"url": "https://pastebin.com/UWXsWLF9",
-"info":"",
-"import": false
-},
-{
-"name": "CANALES PREMIUM IPTV",
-"image": "https://i.imgur.com/TjuTxxS.png",
-"url": "https://raw.githubusercontent.com/UVEDOBLEIX2/listaprueba/main/uvedobleapple1.m3u",
-"info":"IPTV",
-"import": false
-},
-{
-"name": "DEPORTES DIFERIDO",
-"image": "https://i.imgur.com/incWnN8.png",
-"url": "https://af1c1onados.vercel.app/03.0.Menu.DepOrtEs.dIFerIDos.w3u",
-"import": false
-},
-{
-"name": "DOCUMENTALES DEPORTIVOS",
-"image": "https://i.imgur.com/ESzkT4N.png",
-"url": "https://af1c1onados.vercel.app/04.0.Menu.DoCUmENTaLeS.w3u",
-"import": false
-},
-{
-"name": "EVENTOS DEL DIA",
-"image": "https://thumbs.dreamstime.com/b/muestra-de-live-stream-emblema-logotipo-92479158.jpg",
-"url": "https://af1c1onados.vercel.app/10.EVEntOs.dEl.DiA.w3u",
-"import": false
-},
+}
 ]
 }
